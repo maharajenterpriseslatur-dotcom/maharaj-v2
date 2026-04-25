@@ -2,20 +2,20 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Maharaj JSON Generator v2</title>
+    <title>Maharaj JSON Generator v5</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
 </head>
 <body class="bg-slate-50 p-6 font-sans text-slate-800">
     <div class="max-w-4xl mx-auto bg-white p-8 rounded-3xl shadow-xl border border-slate-200">
-        <h1 class="text-2xl font-black mb-2">JSON Data Generator</h1>
-        <p class="text-slate-500 text-sm mb-8">Upload Excel to generate product data with GitHub-hosted assets.</p>
+        <h1 class="text-2xl font-black mb-2 text-cyan-700">JSON Data Generator</h1>
+        <p class="text-slate-500 text-sm mb-8">This version automatically detects columns regardless of spacing.</p>
         
         <div class="grid grid-cols-1 gap-6 mb-8">
             <div class="border-2 border-dashed border-slate-300 rounded-2xl p-10 text-center hover:border-cyan-500 transition-all cursor-pointer bg-slate-50" onclick="document.getElementById('fileInput').click()">
                 <input type="file" id="fileInput" class="hidden" accept=".xlsx, .xls">
                 <span class="text-3xl block mb-2">📊</span>
-                <p class="font-bold text-slate-600" id="fileLabel">Drop Excel file here or click to browse</p>
+                <p class="font-bold text-slate-600" id="fileLabel">Upload Excel File</p>
             </div>
             
             <button id="convertBtn" class="bg-cyan-600 hover:bg-cyan-700 text-white font-black py-4 rounded-2xl transition-all shadow-lg shadow-cyan-100">
@@ -26,21 +26,20 @@
         <div class="space-y-4">
             <div class="flex justify-between items-center">
                 <h2 class="text-xs font-black uppercase tracking-widest text-slate-400">Output JSON</h2>
-                <button id="copyBtn" class="text-[10px] bg-slate-900 text-white px-4 py-2 rounded-full font-bold hover:bg-black transition-colors">COPY JSON</button>
+                <button id="copyBtn" class="text-[10px] bg-slate-900 text-white px-4 py-2 rounded-full font-bold hover:bg-black">COPY JSON</button>
             </div>
-            <pre id="output" class="bg-slate-900 text-cyan-400 p-6 rounded-2xl text-[11px] overflow-auto max-h-[600px] border border-slate-800 shadow-inner">Result will appear here...</pre>
+            <pre id="output" class="bg-slate-900 text-cyan-400 p-6 rounded-2xl text-[11px] overflow-auto max-h-[600px] border border-slate-800 shadow-inner">JSON will appear here...</pre>
         </div>
     </div>
 
     <script>
-        // Mapping of Company Names to your uploaded Logo files in /assets/
         const LOGO_MAP = {
             "AJANTA PHARMA LIMITED": "ajanta.jpg",
             "CANIXA LIFE SCIENCES": "canixa.jpg",
             "CIPLA": "cipla.svg",
             "DR. REDDY": "dotorreddy.png",
             "ERIS THERAPEUTICS LIMITED": "eris.png",
-            "GLENMARK PHARMACEUTICALS LTD.": "glenmark.png",
+            "GLENMARK PHARMACEUTIUCALS LTD.": "glenmark.png",
             "GLOWDERMA LAB PVT. LTD.": "glowderma.jpg",
             "HIMALAYA": "himalaya.png",
             "INTAS PHARMACEUTICALS LTD": "intas.png",
@@ -54,7 +53,7 @@
         const REPO_BASE = "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/";
 
         document.getElementById('fileInput').onchange = (e) => {
-            document.getElementById('fileLabel').innerText = e.target.files[0].name;
+            if (e.target.files.length > 0) document.getElementById('fileLabel').innerText = e.target.files[0].name;
         };
 
         document.getElementById('convertBtn').onclick = () => {
@@ -65,8 +64,9 @@
             reader.onload = (e) => {
                 const data = new Uint8Array(e.target.result);
                 const workbook = XLSX.read(data, { type: 'array' });
-                const rows = XLSX.utils.sheet_to_json(workbook.Sheets[workbook.SheetNames[0]], { header: 1 });
-                processData(rows);
+                const sheet = workbook.Sheets[workbook.SheetNames[0]];
+                const rawRows = XLSX.utils.sheet_to_json(sheet, { header: 1, defval: "" });
+                processData(rawRows);
             };
             reader.readAsArrayBuffer(file);
         };
@@ -76,39 +76,60 @@
             let currentCompany = null;
             let idCounter = 1;
 
-            rows.forEach(row => {
-                const name = row[0] ? String(row[0]).trim() : "";
-                const packing = row[5] ? String(row[5]).trim() : ""; // Column 'Packing'
+            rows.forEach((row) => {
+                // Filter the row to only include cells that have actual text
+                const activeCells = row
+                    .map(cell => String(cell).trim())
+                    .filter(cell => cell !== "");
 
-                if (!name || name.includes("MAHARAJ") || name.includes("Item Particulars")) return;
+                if (activeCells.length === 0) return;
 
-                // Detect Company Row (Name exists but Packing is empty)
-                if (name && !packing) {
+                const firstValue = activeCells[0];
+
+                // Skip generic headers
+                if (firstValue.includes("Item Particulars") || 
+                    firstValue.includes("MAHARAJ") || 
+                    firstValue.includes("Product List") ||
+                    firstValue.includes("SHOP NO")) return;
+
+                // LOGIC: If only 1 cell has text, it's a COMPANY
+                if (activeCells.length === 1) {
                     currentCompany = {
                         id: idCounter++,
-                        company: name,
-                        logo: `${REPO_BASE}assets/${LOGO_MAP[name] || 'placeholder.png'}`,
+                        company: firstValue,
+                        logo: `${REPO_BASE}assets/${LOGO_MAP[firstValue] || 'placeholder.png'}`,
                         items: []
                     };
                     products.push(currentCompany);
                 } 
-                // Detect Product Row
-                else if (name && packing && currentCompany) {
-                    const cleanName = name.replace(/[^a-zA-Z0-9]/g, '_').toUpperCase();
+                // LOGIC: If 2 or more cells have text, it's an ITEM (Name + Packing)
+                else if (activeCells.length >= 2 && currentCompany) {
+                    const itemName = activeCells[0];
+                    const packing = activeCells[1];
+
+                    let cleanImg = itemName.replace(/[^a-zA-Z0-9]/g, '_').replace(/_+/g, '_').replace(/_$/, '');
+                    let imageUrl = `${REPO_BASE}images/${cleanImg}.png`;
+
+                    const noImgKeywords = ["GT S10", "MID NB", "MID XL", "SINGLE", "FLUF SOFT", "FLUFFY", "TAB LUKOL"];
+                    if (noImgKeywords.some(key => itemName.includes(key) && !itemName.includes("LID"))) {
+                        imageUrl = "";
+                    }
+
                     currentCompany.items.push({
-                        name: name,
+                        name: itemName,
                         packing: packing,
-                        image: `${REPO_BASE}images/${cleanName}.png`
+                        image: imageUrl
                     });
                 }
             });
 
-            document.getElementById('output').textContent = JSON.stringify({ products }, null, 2);
+            document.getElementById('output').textContent = JSON.stringify(products, null, 2);
         }
 
         document.getElementById('copyBtn').onclick = () => {
-            navigator.clipboard.writeText(document.getElementById('output').textContent);
-            alert("JSON Copied to clipboard!");
+            const text = document.getElementById('output').textContent;
+            navigator.clipboard.writeText(text);
+            alert("JSON Copied!");
         };
     </script>
 </body>

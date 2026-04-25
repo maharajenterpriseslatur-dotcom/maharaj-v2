@@ -107,7 +107,7 @@
     "logo": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/assets/eris.png",
     "items": [
       { "name": "HALOVATE CREAM 30GM", "packing": "30GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HALOVATE_CREAM_30GM.png" },
-      { "name": "HALOVATE F CREAM 15GM", "packing": "1 S", "image": "" },
+      { "name": "HALOVATE F CREAM 15GM", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HALOVATE_CREAM_30GM.png" },
       { "name": "ONABET CREAM 15GM", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/ONABET_CREAM_15GM.png" },
       { "name": "ONABET CREAM 30 GM", "packing": "30 GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/ONABET_CREAM_30GM.png" }
     ]

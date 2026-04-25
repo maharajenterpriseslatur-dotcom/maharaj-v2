@@ -107,7 +107,7 @@
     "logo": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/assets/eris.png",
     "items": [
       { "name": "HALOVATE CREAM 30GM", "packing": "30GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HALOVATE_CREAM_30GM.png" },
-      { "name": "HALOVATE F CREAM 15GM", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HALOVATE_F_CREAM_15GM.png" },
+      { "name": "HALOVATE F CREAM 15GM", "packing": "1 S", "image": "" },
       { "name": "ONABET CREAM 15GM", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/ONABET_CREAM_15GM.png" },
       { "name": "ONABET CREAM 30 GM", "packing": "30 GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/ONABET_CREAM_30GM.png" }
     ]
@@ -189,7 +189,7 @@
     "company": "SUNWAY PVT.LTD",
     "logo": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/assets/sunway.png",
     "items": [
-      { "name": "TRAVOSUN  T DROPS", "packing": "5 ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/TRAVOSUN_T_DROPS_5_ML.png" }
+      { "name": "TRAVOSUN  T DROPS", "packing": "5 ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/TRAVOSUN_T_DROPS_5ML.png" }
     ]
   },
   {

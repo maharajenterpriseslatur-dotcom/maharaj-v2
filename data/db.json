@@ -1,4 +1,4 @@
-export const data = [
+[
   {
     "id": 1,
     "company": "PIRAMAL",
@@ -210,4 +210,4 @@ export const data = [
       { "name": "ETHIGLO SOAP 75GM", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/ETHIGLO_SOAP_75GM.png" }
     ]
   }
-];
+]

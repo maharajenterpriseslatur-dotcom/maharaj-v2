@@ -107,7 +107,7 @@
     "logo": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/assets/eris.png",
     "items": [
       { "name": "HALOVATE CREAM 30GM", "packing": "30GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HALOVATE_CREAM_30GM.png" },
-      { "name": "HALOVATE F CREAM 15GM", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HALOVATE F_CREAM_15GM.png" },
+      { "name": "HALOVATE F CREAM 15GM", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HALOVATE_F_CREAM_15GM.png" },
       { "name": "ONABET CREAM 15GM", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/ONABET_CREAM_15GM.png" },
       { "name": "ONABET CREAM 30 GM", "packing": "30 GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/ONABET_CREAM_30GM.png" }
     ]
@@ -122,8 +122,8 @@
       { "name": "LA SHIELD SUNSCREEN GEL", "packing": "50 GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LA_SHIELD_SUNSCREEN_GEL_50GM.png" },
       { "name": "MOMATE CREAM 10 GM", "packing": "1", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOMATE_CREAM_10GM.png" },
       { "name": "MOMATE CREAM 20GM", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOMATE_CREAM_20GM.png" },
-      { "name": "MOMATE F CREAM 15 GM", "packing": "15 GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOMATE F_CREAM_15_GM.png" },
-      { "name": "MOMATE F CREAM 20 GM", "packing": "15 GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOMATE F_CREAM_20GM.png" },
+      { "name": "MOMATE F CREAM 15 GM", "packing": "15 GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOMATE_F_CREAM_15_GM.png" },
+      { "name": "MOMATE F CREAM 20 GM", "packing": "15 GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOMATE_F_CREAM_20GM.png" },
       { "name": "MOMATE S OINTMENT", "packing": "20 GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOMATE_S_OINTMENT_20GM.png" }
     ]
   },
@@ -173,7 +173,7 @@
     "items": [
       { "name": "AZIDERM 10% GEL", "packing": "15 GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/AZIDERM_10_GEL_15GM.png" },
       { "name": "AZIDERM 20% CREAM", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/AZIDERM_20_CREAM.png" },
-      { "name": "AZIDERM 20% GEL", "packing": "15 GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/AZIDERM_20_ GEL_15MG.png" }
+      { "name": "AZIDERM 20% GEL", "packing": "15 GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/AZIDERM_20_GEL_15MG.png" }
     ]
   },
   {
@@ -189,7 +189,7 @@
     "company": "SUNWAY PVT.LTD",
     "logo": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/assets/sunway.png",
     "items": [
-      { "name": "TRAVOSUN  T DROPS", "packing": "5 ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/TRAVOSUN_T_DROPS_5 ML.png" }
+      { "name": "TRAVOSUN  T DROPS", "packing": "5 ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/TRAVOSUN_T_DROPS_5_ML.png" }
     ]
   },
   {

@@ -2,14 +2,15 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Maharaj JSON Generator v5</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maharaj JSON Generator v5.2</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
 </head>
 <body class="bg-slate-50 p-6 font-sans text-slate-800">
     <div class="max-w-4xl mx-auto bg-white p-8 rounded-3xl shadow-xl border border-slate-200">
         <h1 class="text-2xl font-black mb-2 text-cyan-700">JSON Data Generator</h1>
-        <p class="text-slate-500 text-sm mb-8">This version automatically detects columns regardless of spacing.</p>
+        <p class="text-slate-500 text-sm mb-8">Tracks totals and includes a robust fallback copy feature.</p>
         
         <div class="grid grid-cols-1 gap-6 mb-8">
             <div class="border-2 border-dashed border-slate-300 rounded-2xl p-10 text-center hover:border-cyan-500 transition-all cursor-pointer bg-slate-50" onclick="document.getElementById('fileInput').click()">
@@ -23,10 +24,21 @@
             </button>
         </div>
 
+        <div class="grid grid-cols-2 gap-4 mb-6">
+            <div class="bg-cyan-50 border border-cyan-100 p-4 rounded-2xl">
+                <p class="text-[10px] font-black uppercase tracking-widest text-cyan-600">Total Companies</p>
+                <p id="companyCount" class="text-2xl font-black text-cyan-900">0</p>
+            </div>
+            <div class="bg-indigo-50 border border-indigo-100 p-4 rounded-2xl">
+                <p class="text-[10px] font-black uppercase tracking-widest text-indigo-600">Total Products</p>
+                <p id="productCount" class="text-2xl font-black text-indigo-900">0</p>
+            </div>
+        </div>
+
         <div class="space-y-4">
             <div class="flex justify-between items-center">
                 <h2 class="text-xs font-black uppercase tracking-widest text-slate-400">Output JSON</h2>
-                <button id="copyBtn" class="text-[10px] bg-slate-900 text-white px-4 py-2 rounded-full font-bold hover:bg-black">COPY JSON</button>
+                <button id="copyBtn" class="text-[10px] bg-slate-900 text-white px-4 py-2 rounded-full font-bold hover:bg-black active:scale-95 transition-transform">COPY JSON</button>
             </div>
             <pre id="output" class="bg-slate-900 text-cyan-400 p-6 rounded-2xl text-[11px] overflow-auto max-h-[600px] border border-slate-800 shadow-inner">JSON will appear here...</pre>
         </div>
@@ -75,9 +87,9 @@
             const products = [];
             let currentCompany = null;
             let idCounter = 1;
+            let totalProducts = 0;
 
             rows.forEach((row) => {
-                // Filter the row to only include cells that have actual text
                 const activeCells = row
                     .map(cell => String(cell).trim())
                     .filter(cell => cell !== "");
@@ -86,13 +98,11 @@
 
                 const firstValue = activeCells[0];
 
-                // Skip generic headers
                 if (firstValue.includes("Item Particulars") || 
                     firstValue.includes("MAHARAJ") || 
                     firstValue.includes("Product List") ||
                     firstValue.includes("SHOP NO")) return;
 
-                // LOGIC: If only 1 cell has text, it's a COMPANY
                 if (activeCells.length === 1) {
                     currentCompany = {
                         id: idCounter++,
@@ -102,7 +112,6 @@
                     };
                     products.push(currentCompany);
                 } 
-                // LOGIC: If 2 or more cells have text, it's an ITEM (Name + Packing)
                 else if (activeCells.length >= 2 && currentCompany) {
                     const itemName = activeCells[0];
                     const packing = activeCells[1];
@@ -120,17 +129,56 @@
                         packing: packing,
                         image: imageUrl
                     });
+
+                    totalProducts++;
                 }
             });
 
+            document.getElementById('companyCount').innerText = products.length;
+            document.getElementById('productCount').innerText = totalProducts;
             document.getElementById('output').textContent = JSON.stringify(products, null, 2);
         }
 
-        document.getElementById('copyBtn').onclick = () => {
-            const text = document.getElementById('output').textContent;
-            navigator.clipboard.writeText(text);
-            alert("JSON Copied!");
+        // Updated Copy Logic with Robust Fallback
+        document.getElementById('copyBtn').onclick = function() {
+            const outputElement = document.getElementById('output');
+            const textToCopy = outputElement.textContent;
+
+            if (textToCopy === "JSON will appear here...") return;
+
+            // Method 1: Modern API
+            if (navigator.clipboard && window.isSecureContext) {
+                navigator.clipboard.writeText(textToCopy).then(() => {
+                    alert("JSON Copied!");
+                }).catch(err => {
+                    useFallbackCopy(outputElement);
+                });
+            } else {
+                // Method 2: Fallback for restricted environments (iframes/http)
+                useFallbackCopy(outputElement);
+            }
         };
+
+        function useFallbackCopy(element) {
+            try {
+                const range = document.createRange();
+                range.selectNodeContents(element);
+                const selection = window.getSelection();
+                selection.removeAllRanges();
+                selection.addRange(range);
+
+                const successful = document.execCommand('copy');
+                selection.removeAllRanges(); // Clear selection
+
+                if (successful) {
+                    alert("JSON Copied! (via fallback)");
+                } else {
+                    throw new Error('Fallback failed');
+                }
+            } catch (err) {
+                alert("Please select the text and press Ctrl+C to copy.");
+            }
+        }
     </script>
 </body>
 </html>

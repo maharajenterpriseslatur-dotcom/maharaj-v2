@@ -250,10 +250,10 @@
     "company": "ADIVION PHARMACEUTICALS PRIVAT",
     "logo": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/assets/adivion.png",
     "items": [
-      { "name": "NUTRAVION PLUS", "packing": "1* 10", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/NUTRAVION_PLUS.png" },
-      { "name": "PANTAVION D", "packing": "1*10", "image": "" },
-      { "name": "SERAVION-SP", "packing": "1* 10", "image": "" },
-      { "name": "SOFTVION SYRUP", "packing": "170ML", "image": "" }
+      { "name": "NUTRAVION PLUS", "packing": "1* 10", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/NUTRAVION_PLUS_1_10.png" },
+      { "name": "PANTAVION D", "packing": "1*10", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/PANTAVION_D_1_10.png" },
+      { "name": "SERAVION-SP", "packing": "1* 10", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/SERAVION_SP_1_10.png" },
+      { "name": "SOFTVION SYRUP", "packing": "170ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/SOFTVION_SYRUP_170ML.png" }
     ]
   }
 ]

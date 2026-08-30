@@ -19,12 +19,18 @@
     "company": "GALDERMA",
     "logo": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/assets/galderma.png",
     "items": [
+      { "name": "CETAPHIL BABY BAR 75GM", "packing": "75GM", "image": "" },
       { "name": "CETAPHIL BABY GENTLE WASH SHAMPO", "packing": "230ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CETAPHIL_BABY_GENTLE_WASH_SHAMPO_230ml.png" },
+      { "name": "CETAPHIL BAR 75GM", "packing": "75GM", "image": "" },
       { "name": "CETAPHIL BRIGHT RADINCE", "packing": "100GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CETAPHIL_BRIGHT_RADINCE_100gm.png" },
       { "name": "CETAPHIL BRIGHTENING LOTION", "packing": "245", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CETAPHIL_BRIGHTENING_LOTION_245ml.png" },
       { "name": "CETAPHIL GENTAL SKIN CLEANSER", "packing": "125", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CETAPHIL_GENTAL_SKIN_CLEANSER_125.png" },
+      { "name": "CETAPHIL GENTAL SKIN CLEANSER 59ML", "packing": "59ML", "image": "" },
+      { "name": "CETAPHIL HYDRATING FOAM CLEANSER", "packing": "236ML", "image": "" },
+      { "name": "CETAPHIL MOISTURISING CREAM", "packing": "100GM", "image": "" },
       { "name": "CETAPHIL MOIST LOTION 100 ML", "packing": "100ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CETAPHIL_MOIST_LOTION_100_ML.png" },
       { "name": "CETAPHIL OILY SKIN CLEANSER", "packing": "118ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CETAPHIL_OILY_SKIN_CLEANSER_118ml.png" },
+      { "name": "CETAPHIL OILY SKIN CLEANSER 59ML", "packing": "59ML", "image": "" },
       { "name": "CETAPHIL PRO OIL CONTROL FOAM", "packing": "236ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CETAPHIL_PRO_OIL_CONTROL_FOAM_236ml.png" },
       { "name": "CETAPHIL SUN KIDS SPF 50", "packing": "50ML", "image": "" },
       { "name": "CETAPHIL SUN SPF", "packing": "50ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CETAPHIL_SUN_SPF_50_50ml.png" }
@@ -68,17 +74,6 @@
       { "name": "RENALKA SYP 100ML", "packing": "100 ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/RENALKA_SYP_100ML.png" },
       { "name": "SHISHU ANAND WIPES 72S", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/SHISHU_ANAND_WIPES_72S.png" },
       { "name": "TAB LUKOL", "packing": "1 PCS", "image": "" }
-    ]
-  },
-  {
-    "id": 5,
-    "company": "DR. REDDY",
-    "logo": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/assets/dotorreddy.png",
-    "items": [
-      { "name": "VENUSIA CREAM 100GM", "packing": "100GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/VENUSIA_CREAM_100GM.png" },
-      { "name": "VENUSIA LOTION 100ML", "packing": "100ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/VENUSIA_LOTION_100ML.png" },
-      { "name": "VENUSIA MAX CREAM 150GM", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/VENUSIA_MAX_CREAM_150GM.png" },
-      { "name": "VENUSIA MAX LOTION 300ML", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/VENUSIA_MAX_LOTION_300ML.png" }
     ]
   },
   {
@@ -132,12 +127,24 @@
     ]
   },
   {
+    "id": 5,
+    "company": "DR. REDDY",
+    "logo": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/assets/dotorreddy.png",
+    "items": [
+      { "name": "VENUSIA CREAM 100GM", "packing": "100GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/VENUSIA_CREAM_100GM.png" },
+      { "name": "VENUSIA LOTION 100ML", "packing": "100ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/VENUSIA_LOTION_100ML.png" },
+      { "name": "VENUSIA MAX CREAM 150GM", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/VENUSIA_MAX_CREAM_150GM.png" },
+      { "name": "VENUSIA MAX LOTION 300ML", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/VENUSIA_MAX_LOTION_300ML.png" }
+    ]
+  },
+  {
     "id": 6,
     "company": "CIPLA",
     "logo": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/assets/cipla.svg",
     "items": [
       { "name": "EXCELA ANTI MOISTURIZER", "packing": "50GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/EXCELA_ANTI_MOISTURIZER_50gm.png" },
-      { "name": "EXCELA MAX MOISTURISER FR", "packing": "200GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/EXCELA_MAX_MOISTURISER_FR_200gm.png" }
+      { "name": "EXCELA MAX MOISTURISER FR", "packing": "200GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/EXCELA_MAX_MOISTURISER_FR_200gm.png" },
+      { "name": "ORS LIQUID ORANGE", "packing": "200ML", "image": "" }
     ]
   },
   {
@@ -161,6 +168,7 @@
       { "name": "ELOVERA CREAM 75GM", "packing": "75GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/ELOVERA_CREAM_75GM.png" },
       { "name": "LA SHIELD SUNSCREEN GEL", "packing": "50 GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LA_SHIELD_SUNSCREEN_GEL_50GM.png" },
       { "name": "LASHIELD URBAN PROT SPF 50", "packing": "50 GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LASHIELD_URBAN_prot_SPF_50_50GM.png" },
+      { "name": "LITE GLO FACEWASH", "packing": "100 GM", "image": "" },
       { "name": "MOMATE CREAM 10 GM", "packing": "1", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOMATE_CREAM_10GM.png" },
       { "name": "MOMATE CREAM 20GM", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOMATE_CREAM_20GM.png" },
       { "name": "MOMATE F CREAM 15 GM", "packing": "15 GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOMATE_F_CREAM_15_GM.png" },
@@ -194,6 +202,7 @@
       { "name": "AQUASOFT CREAM 150GM", "packing": "150GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/AQUASOFT_CREAM_150GM.png" },
       { "name": "AQUASOFT CREAM 60GM", "packing": "60GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/AQUASOFT_CREAM_60GM.png" },
       { "name": "AQUASOFT FC CREAM", "packing": "100GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/AQUASOFT_FC_CREAM.png" },
+      { "name": "AQUASOFT FC CREAM 60GM", "packing": "60GM", "image": "" },
       { "name": "AQUASOFT LOTION 100ML", "packing": "100ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/AQUASOFT_LOTION_100ML.png" },
       { "name": "AQUASOFT LOTION 200ML", "packing": "200ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/AQUASOFT_LOTION_200ML.png" },
       { "name": "AQUASOFT MAX CREAM 100GM", "packing": "100GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/AQUASOFT_MAX_CREAM_100GM.png" },
@@ -254,6 +263,95 @@
       { "name": "PANTAVION D", "packing": "1*10", "image": "" },
       { "name": "SERAVION-SP", "packing": "1* 10", "image": "" },
       { "name": "SOFTVION SYRUP", "packing": "170ML", "image": "" }
+    ]
+  },
+  {
+    "id": 17,
+    "company": "ABBOTT",
+    "logo": "",
+    "items": [
+      { "name": "ICIKINASE 15LAC INJ", "packing": "EACH", "image": "" }
+    ]
+  },
+  {
+    "id": 18,
+    "company": "AMAR",
+    "logo": "",
+    "items": [
+      { "name": "GLYCERIN 100GM", "packing": "100GM", "image": "" },
+      { "name": "HYDROGEN 400ML", "packing": "1", "image": "" },
+      { "name": "SPIRIT 25% DOC", "packing": "400ML", "image": "" }
+    ]
+  },
+  {
+    "id": 19,
+    "company": "AQUA",
+    "logo": "",
+    "items": [
+      { "name": "PAM INJ", "packing": "1", "image": "" }
+    ]
+  },
+  {
+    "id": 20,
+    "company": "BIOGEN",
+    "logo": "",
+    "items": [
+      { "name": "BESIX 2ML INJ", "packing": "4ML", "image": "" },
+      { "name": "BIOVIL INJ", "packing": "2ML", "image": "" },
+      { "name": "BUSCOGEN INJ 1ML", "packing": "1ML", "image": "" },
+      { "name": "CALCIUM GLUCONATE 10ML", "packing": "10ML", "image": "" },
+      { "name": "DERIFINE 2ML INJ", "packing": "2ML", "image": "" },
+      { "name": "DOXYGLEX-100 INJ", "packing": "1", "image": "" },
+      { "name": "DROTARIN INJ 2ML", "packing": "2ML", "image": "" },
+      { "name": "FORTAZID TZ 1.125 INJ", "packing": "1", "image": "" },
+      { "name": "LOPAZEST 2ML INJ", "packing": "2ML", "image": "" },
+      { "name": "MEDAZOLAM 10ML INJ", "packing": "10ML", "image": "" },
+      { "name": "PARALEAD INJ 2ML", "packing": "2ML", "image": "" },
+      { "name": "PNAR-GYN 2ML INJ", "packing": "2ML", "image": "" },
+      { "name": "SERESTIN 1ML INJ", "packing": "1ML", "image": "" },
+      { "name": "SYLETON 2ML INJ", "packing": "2ML", "image": "" },
+      { "name": "THIACAN 200 INJ", "packing": "2ML", "image": "" }
+    ]
+  },
+  {
+    "id": 21,
+    "company": "BIPSON",
+    "logo": "",
+    "items": [
+      { "name": "BIPOSODINE PLUS 10 % 500ML", "packing": "500ML", "image": "" }
+    ]
+  },
+  {
+    "id": 22,
+    "company": "DIAMOND",
+    "logo": "",
+    "items": [
+      { "name": "BP OPRETAOR DIAMOND (DELUXE)", "packing": "1", "image": "" }
+    ]
+  },
+  {
+    "id": 23,
+    "company": "DR MORPHIN",
+    "logo": "",
+    "items": [
+      { "name": "STRIPS GLUCO ONE 50S", "packing": "50S", "image": "" }
+    ]
+  },
+  {
+    "id": 24,
+    "company": "ETHICON",
+    "logo": "",
+    "items": [
+      { "name": "ETHILON 2.0", "packing": "1", "image": "" },
+      { "name": "ETHILON 3.0", "packing": "1", "image": "" }
+    ]
+  },
+  {
+    "id": 25,
+    "company": "GEN",
+    "logo": "",
+    "items": [
+      { "name": "BED PAN", "packing": "1", "image": "" }
     ]
   }
 ]

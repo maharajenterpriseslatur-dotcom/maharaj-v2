@@ -4,14 +4,46 @@
     "company": "TORRENT PHARMA",
     "logo": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/assets/torrrent.png",
     "items": [
-      { "name": "ATOGLA LOTION", "packing": "100ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/ATOGLA_LOTION_100ML.png" },
-      { "name": "ATOGLA LOTION 200ML", "packing": "200ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/ATOGLA_LOTION_200ML.png" },
-      { "name": "SPOO SHAMPOO 125ML", "packing": "125ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/SPOO_SHAMPOO_125ML.png" },
-      { "name": "SPOO SHAMPOO 200ML", "packing": "200ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/SPOO_SHAMPOO_200ML.png" },
-      { "name": "TEDI  BAR", "packing": "75 GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/TEDI_BAR_75GM.png" },
-      { "name": "TEDIBAR BODY WASH", "packing": "100ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/TEDIBAR_BODY_WASH_100ML.png" },
-      { "name": "TEDIBAR BODY WASH 250ML", "packing": "250ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/TEDIBAR_BODY_WASH_250ML.png" },
-      { "name": "TEDIBAR CERAMAX 75GM", "packing": "75GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/TEDIBAR_CERAMAX_75GM.png" }
+      {
+        "name": "ATOGLA LOTION",
+        "packing": "100ML",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/ATOGLA_LOTION_100ML.png"
+      },
+      {
+        "name": "ATOGLA LOTION 200ML",
+        "packing": "200ML",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/ATOGLA_LOTION_200ML.png"
+      },
+      {
+        "name": "SPOO SHAMPOO 125ML",
+        "packing": "125ML",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/SPOO_SHAMPOO_125ML.png"
+      },
+      {
+        "name": "SPOO SHAMPOO 200ML",
+        "packing": "200ML",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/SPOO_SHAMPOO_200ML.png"
+      },
+      {
+        "name": "TEDI  BAR",
+        "packing": "75 GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/TEDI_BAR_75GM.png"
+      },
+      {
+        "name": "TEDIBAR BODY WASH",
+        "packing": "100ML",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/TEDIBAR_BODY_WASH_100ML.png"
+      },
+      {
+        "name": "TEDIBAR BODY WASH 250ML",
+        "packing": "250ML",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/TEDIBAR_BODY_WASH_250ML.png"
+      },
+      {
+        "name": "TEDIBAR CERAMAX 75GM",
+        "packing": "75GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/TEDIBAR_CERAMAX_75GM.png"
+      }
     ]
   },
   {
@@ -19,21 +51,81 @@
     "company": "GALDERMA",
     "logo": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/assets/galderma.png",
     "items": [
-      { "name": "CETAPHIL BABY BAR 75GM", "packing": "75GM", "image": "" },
-      { "name": "CETAPHIL BABY GENTLE WASH SHAMPO", "packing": "230ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CETAPHIL_BABY_GENTLE_WASH_SHAMPO_230ml.png" },
-      { "name": "CETAPHIL BAR 75GM", "packing": "75GM", "image": "" },
-      { "name": "CETAPHIL BRIGHT RADINCE", "packing": "100GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CETAPHIL_BRIGHT_RADINCE_100gm.png" },
-      { "name": "CETAPHIL BRIGHTENING LOTION", "packing": "245", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CETAPHIL_BRIGHTENING_LOTION_245ml.png" },
-      { "name": "CETAPHIL GENTAL SKIN CLEANSER", "packing": "125", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CETAPHIL_GENTAL_SKIN_CLEANSER_125.png" },
-      { "name": "CETAPHIL GENTAL SKIN CLEANSER 59ML", "packing": "59ML", "image": "" },
-      { "name": "CETAPHIL HYDRATING FOAM CLEANSER", "packing": "236ML", "image": "" },
-      { "name": "CETAPHIL MOISTURISING CREAM", "packing": "100GM", "image": "" },
-      { "name": "CETAPHIL MOIST LOTION 100 ML", "packing": "100ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CETAPHIL_MOIST_LOTION_100_ML.png" },
-      { "name": "CETAPHIL OILY SKIN CLEANSER", "packing": "118ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CETAPHIL_OILY_SKIN_CLEANSER_118ml.png" },
-      { "name": "CETAPHIL OILY SKIN CLEANSER 59ML", "packing": "59ML", "image": "" },
-      { "name": "CETAPHIL PRO OIL CONTROL FOAM", "packing": "236ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CETAPHIL_PRO_OIL_CONTROL_FOAM_236ml.png" },
-      { "name": "CETAPHIL SUN KIDS SPF 50", "packing": "50ML", "image": "" },
-      { "name": "CETAPHIL SUN SPF", "packing": "50ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CETAPHIL_SUN_SPF_50_50ml.png" }
+      {
+        "name": "CETAPHIL BABY BAR 75GM",
+        "packing": "75GM",
+        "image": ""
+      },
+      {
+        "name": "CETAPHIL BABY GENTLE WASH SHAMPO",
+        "packing": "230ML",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CETAPHIL_BABY_GENTLE_WASH_SHAMPO_230ml.png"
+      },
+      {
+        "name": "CETAPHIL BAR 75GM",
+        "packing": "75GM",
+        "image": ""
+      },
+      {
+        "name": "CETAPHIL BRIGHT RADINCE",
+        "packing": "100GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CETAPHIL_BRIGHT_RADINCE_100gm.png"
+      },
+      {
+        "name": "CETAPHIL BRIGHTENING LOTION",
+        "packing": "245",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CETAPHIL_BRIGHTENING_LOTION_245ml.png"
+      },
+      {
+        "name": "CETAPHIL GENTAL SKIN CLEANSER",
+        "packing": "125",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CETAPHIL_GENTAL_SKIN_CLEANSER_125.png"
+      },
+      {
+        "name": "CETAPHIL GENTAL SKIN CLEANSER 59ML",
+        "packing": "59ML",
+        "image": ""
+      },
+      {
+        "name": "CETAPHIL HYDRATING FOAM CLEANSER",
+        "packing": "236ML",
+        "image": ""
+      },
+      {
+        "name": "CETAPHIL MOISTURISING CREAM",
+        "packing": "100GM",
+        "image": ""
+      },
+      {
+        "name": "CETAPHIL MOIST LOTION 100 ML",
+        "packing": "100ML",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CETAPHIL_MOIST_LOTION_100_ML.png"
+      },
+      {
+        "name": "CETAPHIL OILY SKIN CLEANSER",
+        "packing": "118ML",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CETAPHIL_OILY_SKIN_CLEANSER_118ml.png"
+      },
+      {
+        "name": "CETAPHIL OILY SKIN CLEANSER 59ML",
+        "packing": "59ML",
+        "image": ""
+      },
+      {
+        "name": "CETAPHIL PRO OIL CONTROL FOAM",
+        "packing": "236ML",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CETAPHIL_PRO_OIL_CONTROL_FOAM_236ml.png"
+      },
+      {
+        "name": "CETAPHIL SUN KIDS SPF 50",
+        "packing": "50ML",
+        "image": ""
+      },
+      {
+        "name": "CETAPHIL SUN SPF",
+        "packing": "50ML",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CETAPHIL_SUN_SPF_50_50ml.png"
+      }
     ]
   },
   {
@@ -41,39 +133,171 @@
     "company": "HIMALAYA",
     "logo": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/assets/himalaya.png",
     "items": [
-      { "name": "CYSTONE TAB", "packing": "60S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CYSTONE_TAB_60S.png" },
-      { "name": "HIM B.SHAMPO 60ML(5+1)", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_B_SHAMPO_60ML(5+1).png" },
-      { "name": "HIM B.SOAP 3X75G+POW FREE", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_B_SOAP_3X75G_POW_FREE.png" },
-      { "name": "HIM B.SOAP MOIST (125GX2N)", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_B_SOAP_MOIST_125GX2N.png" },
-      { "name": "HIM BABY BAR PURE COW GHEE", "packing": "75 GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_BABY_BAR_PURE_COW_GHEE_75GM.png" },
-      { "name": "HIM BABY CREAM 100ML", "packing": "100ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_BABY_CREAM_100ML.png" },
-      { "name": "HIM BABY CREAM 50ML", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_BABY_CREAM_50ML.png" },
-      { "name": "HIM BABY HAIR OIL 100ML", "packing": "100 ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_BABY_HAIR_OIL_50ML.png" },
-      { "name": "HIM BABY HAIR OIL 50ML", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_BABY_HAIR_OIL_50ML.png" },
-      { "name": "HIM BABY LOTION (5+1)", "packing": "50 ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/Himalaya_Baby_Lotion_6pack_50ML.png" },
-      { "name": "HIM BABY LOTION PURE GHEE", "packing": "100 ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_BABY_LOTION_PURE_GHEe_100ML.PNG" },
-      { "name": "HIM BABY MASSAGE OIL(5+1)", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_BABY_MASSAGE_OIl_6pack.png" },
-      { "name": "HIM BABY POW 30GM(5+1)", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_BABY_POW_30GM_6pack.png" },
-      { "name": "HIM BABY POWDER 100GM", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_BABY_POWDER_100GM.png" },
-      { "name": "HIM BABY POWDER 50GM", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_BABY_POWDER_50GM.png" },
-      { "name": "HIM BABY PRICKLY H.POW 50GM", "packing": "50 GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_BABY_PRICKLY_H_POW_50GM.png" },
-      { "name": "HIM BABY SHAMPOO 60ML", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_BABY_SHAMPOO_60ML.png" },
-      { "name": "HIM BABY SOAP GENTAL 125GM", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_BABY_SOAP_GENTAL_125GM.png" },
-      { "name": "HIM BABY SOAP GENTAL 75GM", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_BABY_SOAP_GENTAL_75GM.png" },
-      { "name": "HIM BABY WIPES 12S", "packing": "1 S", "image": "" },
-      { "name": "HIM CREAM 100ML", "packing": "100ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_CREAM_100ML.png" },
-      { "name": "HIM GHEE WASH 100ML", "packing": "100ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_GHEE_WASH_100ML.png" },
-      { "name": "HIM LOTION 1OOML", "packing": "100ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_LOTION_1OOML.png" },
-      { "name": "HIM MASSAGE OIL 100ML", "packing": "100ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_MASSAGE_OIL_100ML.png" },
-      { "name": "HIM POWDER PRICKLYHEAT 100GM", "packing": "100GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_POWDER_PRICKLYHEAT_100GM.png" },
-      { "name": "HIM SHAMPOO 100ML", "packing": "100ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_SHAMPOO_100ML.png" },
-      { "name": "LIV 52 DS SYP 100ML", "packing": "100ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LIV_52_DS_SYP_100ML.png" },
-      { "name": "LIV 52 DS TAB", "packing": "60 TAB", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LIV_52_DS_TAB_60TAB.png" },
-      { "name": "LIV 52 TAB", "packing": "100 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LIV_52_TAB_100S.png" },
-      { "name": "PILEX TAB", "packing": "60CAP", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/PILEX_TAB_60CAP.png" },
-      { "name": "RENALKA SYP 100ML", "packing": "100 ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/RENALKA_SYP_100ML.png" },
-      { "name": "SHISHU ANAND WIPES 72S", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/SHISHU_ANAND_WIPES_72S.png" },
-      { "name": "TAB LUKOL", "packing": "1 PCS", "image": "" }
+      {
+        "name": "CYSTONE TAB",
+        "packing": "60S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CYSTONE_TAB_60S.png"
+      },
+      {
+        "name": "HIM B.SHAMPO 60ML(5+1)",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_B_SHAMPO_60ML(5+1).png"
+      },
+      {
+        "name": "HIM B.SOAP 3X75G+POW FREE",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_B_SOAP_3X75G_POW_FREE.png"
+      },
+      {
+        "name": "HIM B.SOAP MOIST (125GX2N)",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_B_SOAP_MOIST_125GX2N.png"
+      },
+      {
+        "name": "HIM BABY BAR PURE COW GHEE",
+        "packing": "75 GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_BABY_BAR_PURE_COW_GHEE_75GM.png"
+      },
+      {
+        "name": "HIM BABY CREAM 100ML",
+        "packing": "100ML",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_BABY_CREAM_100ML.png"
+      },
+      {
+        "name": "HIM BABY CREAM 50ML",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_BABY_CREAM_50ML.png"
+      },
+      {
+        "name": "HIM BABY HAIR OIL 100ML",
+        "packing": "100 ML",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_BABY_HAIR_OIL_50ML.png"
+      },
+      {
+        "name": "HIM BABY HAIR OIL 50ML",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_BABY_HAIR_OIL_50ML.png"
+      },
+      {
+        "name": "HIM BABY LOTION (5+1)",
+        "packing": "50 ML",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/Himalaya_Baby_Lotion_6pack_50ML.png"
+      },
+      {
+        "name": "HIM BABY LOTION PURE GHEE",
+        "packing": "100 ML",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_BABY_LOTION_PURE_GHEe_100ML.PNG"
+      },
+      {
+        "name": "HIM BABY MASSAGE OIL(5+1)",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_BABY_MASSAGE_OIl_6pack.png"
+      },
+      {
+        "name": "HIM BABY POW 30GM(5+1)",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_BABY_POW_30GM_6pack.png"
+      },
+      {
+        "name": "HIM BABY POWDER 100GM",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_BABY_POWDER_100GM.png"
+      },
+      {
+        "name": "HIM BABY POWDER 50GM",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_BABY_POWDER_50GM.png"
+      },
+      {
+        "name": "HIM BABY PRICKLY H.POW 50GM",
+        "packing": "50 GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_BABY_PRICKLY_H_POW_50GM.png"
+      },
+      {
+        "name": "HIM BABY SHAMPOO 60ML",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_BABY_SHAMPOO_60ML.png"
+      },
+      {
+        "name": "HIM BABY SOAP GENTAL 125GM",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_BABY_SOAP_GENTAL_125GM.png"
+      },
+      {
+        "name": "HIM BABY SOAP GENTAL 75GM",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_BABY_SOAP_GENTAL_75GM.png"
+      },
+      {
+        "name": "HIM BABY WIPES 12S",
+        "packing": "1 S",
+        "image": ""
+      },
+      {
+        "name": "HIM CREAM 100ML",
+        "packing": "100ML",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_CREAM_100ML.png"
+      },
+      {
+        "name": "HIM GHEE WASH 100ML",
+        "packing": "100ML",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_GHEE_WASH_100ML.png"
+      },
+      {
+        "name": "HIM LOTION 1OOML",
+        "packing": "100ML",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_LOTION_1OOML.png"
+      },
+      {
+        "name": "HIM MASSAGE OIL 100ML",
+        "packing": "100ML",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_MASSAGE_OIL_100ML.png"
+      },
+      {
+        "name": "HIM POWDER PRICKLYHEAT 100GM",
+        "packing": "100GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_POWDER_PRICKLYHEAT_100GM.png"
+      },
+      {
+        "name": "HIM SHAMPOO 100ML",
+        "packing": "100ML",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_SHAMPOO_100ML.png"
+      },
+      {
+        "name": "LIV 52 DS SYP 100ML",
+        "packing": "100ML",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LIV_52_DS_SYP_100ML.png"
+      },
+      {
+        "name": "LIV 52 DS TAB",
+        "packing": "60 TAB",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LIV_52_DS_TAB_60TAB.png"
+      },
+      {
+        "name": "LIV 52 TAB",
+        "packing": "100 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LIV_52_TAB_100S.png"
+      },
+      {
+        "name": "PILEX TAB",
+        "packing": "60CAP",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/PILEX_TAB_60CAP.png"
+      },
+      {
+        "name": "RENALKA SYP 100ML",
+        "packing": "100 ML",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/RENALKA_SYP_100ML.png"
+      },
+      {
+        "name": "SHISHU ANAND WIPES 72S",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/SHISHU_ANAND_WIPES_72S.png"
+      },
+      {
+        "name": "TAB LUKOL",
+        "packing": "1 PCS",
+        "image": ""
+      }
     ]
   },
   {
@@ -81,49 +305,221 @@
     "company": "PIRAMAL",
     "logo": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/assets/piramal.png",
     "items": [
-      { "name": "CALADRYL LOTION 125 ML", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CALADRYL_LOTION_125ML.png" },
-      { "name": "CALADRYL LOTION 65 ML", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CALADRYL_LOTION_65ML.png" },
-      { "name": "CIR CLASSIC A D P L(10)", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CIR_CLASSIC_A_D_P_L_10.png" },
-      { "name": "CIR CLASSIC A D P M(10)", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CIR_CLASSIC_A_D_P_M_10.png" },
-      { "name": "CIR CLASSIC A D P XL(10)", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CIR_CLASSIC_A_D_P_XL_10.png" },
-      { "name": "CIR PRE ADULT DIAPER L(10)", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CIR_PRE_ADULT_DIAPER_L_10.png" },
-      { "name": "CIR PRE ADULT DIAPER M(10)", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CIR_PRE_ADULT_DIAPER_M_10.png" },
-      { "name": "CIR PRE ADULT DIAPER XL(10)", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CIR_PRE_ADULT_DIAPER_XL_10.png" },
-      { "name": "LC FACE LOTION ALOE 115ML", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LC_FACE_LOTION_ALOE_115ML.png" },
-      { "name": "LC FACE LOTION ALOE 30ML", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LC_FACE_LOTION_ALOE_30ML.png" },
-      { "name": "LC FACE LOTION ALOE 60ML", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LC_FACE_LOTION_ALOE_60ML.png" },
-      { "name": "LC FACE LOTION OILY 115ML", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LC_FACE_LOTION_OILY_115ML.png" },
-      { "name": "LC FACE LOTION OILY 30ML", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LC_FACE_LOTION_OILY_30ML.png" },
-      { "name": "LC FACE LOTION OILY 60ML", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LC_FACE_LOTION_OILY_60ML.png" },
-      { "name": "LC FACE WASH KAOLIN 50ML", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LC_FACE_WASH_KAOLIN_50ML.png" },
-      { "name": "LC FACE WASH VIT C 50ML", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LC_FACE_WASH_VIT_C_50ML.png" },
-      { "name": "LC NEW SUNSCREEN SPF30", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LC_NEW_SUNSCREEN_SPF30.png" },
-      { "name": "LC NEW SUNSCREEN SPF50", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LC_NEW_SUNSCREEN_SPF50.png" },
-      { "name": "LITTLES COM NIGHT STD L(62)", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LITTLES_COM_NIGHT_STD_L_62.png" },
-      { "name": "LITTLES COM NIGHT STD M74", "packing": "6 S", "image": "" },
-      { "name": "LITTLES COM P GT L(8)", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LITTLES_COM_P_GT_L_8.png" },
-      { "name": "LITTLES COM P GT M(9)", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LITTLES_COM_P_GT_M_8.png" },
-      { "name": "LITTLES COM P GT S10", "packing": "1 S", "image": "" },
-      { "name": "LITTLES COM P JUMBO L(30)", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LITTLES_COM_P_JUMBO_L_30.png" },
-      { "name": "LITTLES COM P JUMBO M(34)", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LITTLES_COM_P_JUMBO_M_34.png" },
-      { "name": "LITTLES COM P JUMBO S(40)", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LITTLES_COM_P_JUMBO_S_40.png" },
-      { "name": "LITTLES COM P JUMBO XL(26)", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LITTLES_COM_P_JUMBO_XL_26.png" },
-      { "name": "LITTLES COM P MID NB(11)", "packing": "1 S", "image": "" },
-      { "name": "LITTLES COM P MID XL(7)", "packing": "1 S", "image": "" },
-      { "name": "LITTLES COM P SINGLE L(1)", "packing": "1 S", "image": "" },
-      { "name": "LITTLES COM P SINGLE M(1)", "packing": "1 S", "image": "" },
-      { "name": "LITTLES COM P SINGLE S(1)", "packing": "1 S", "image": "" },
-      { "name": "LITTLES FLUF SOFT LARGE XL10", "packing": "1 S", "image": "" },
-      { "name": "LITTLES FLUF SOFT LARGE-XXL8", "packing": "1 S", "image": "" },
-      { "name": "LITTLES FLUFFY MINI NB(36)", "packing": "1 S", "image": "" },
-      { "name": "LITTLES FLUFFY SOFT L(2)", "packing": "1 S", "image": "" },
-      { "name": "LITTLES FLUFFY SOFT M(2)", "packing": "1 S", "image": "" },
-      { "name": "LITTLES FLUFFY SOFT S(2)", "packing": "1 S", "image": "" },
-      { "name": "LITTLES FLUFFY SOFT TAPE NB(9)", "packing": "1 S", "image": "" },
-      { "name": "LITTLES FLUFFY SOFT TAPE S(8)", "packing": "1 S", "image": "" },
-      { "name": "LITTLES WIPES MOIST 72S", "packing": "1 S", "image": "" },
-      { "name": "LITTLES WIPES MOIST 72S LID", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LITTLES_WIPES_MOIST_72S_LID.png" },
-      { "name": "NEKO DAILY HYG SOAP", "packing": "100 GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/NEKO_DAILY_HYG_SOAP_100GM.png" }
+      {
+        "name": "CALADRYL LOTION 125 ML",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CALADRYL_LOTION_125ML.png"
+      },
+      {
+        "name": "CALADRYL LOTION 65 ML",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CALADRYL_LOTION_65ML.png"
+      },
+      {
+        "name": "CIR CLASSIC A D P L(10)",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CIR_CLASSIC_A_D_P_L_10.png"
+      },
+      {
+        "name": "CIR CLASSIC A D P M(10)",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CIR_CLASSIC_A_D_P_M_10.png"
+      },
+      {
+        "name": "CIR CLASSIC A D P XL(10)",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CIR_CLASSIC_A_D_P_XL_10.png"
+      },
+      {
+        "name": "CIR PRE ADULT DIAPER L(10)",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CIR_PRE_ADULT_DIAPER_L_10.png"
+      },
+      {
+        "name": "CIR PRE ADULT DIAPER M(10)",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CIR_PRE_ADULT_DIAPER_M_10.png"
+      },
+      {
+        "name": "CIR PRE ADULT DIAPER XL(10)",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CIR_PRE_ADULT_DIAPER_XL_10.png"
+      },
+      {
+        "name": "LC FACE LOTION ALOE 115ML",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LC_FACE_LOTION_ALOE_115ML.png"
+      },
+      {
+        "name": "LC FACE LOTION ALOE 30ML",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LC_FACE_LOTION_ALOE_30ML.png"
+      },
+      {
+        "name": "LC FACE LOTION ALOE 60ML",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LC_FACE_LOTION_ALOE_60ML.png"
+      },
+      {
+        "name": "LC FACE LOTION OILY 115ML",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LC_FACE_LOTION_OILY_115ML.png"
+      },
+      {
+        "name": "LC FACE LOTION OILY 30ML",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LC_FACE_LOTION_OILY_30ML.png"
+      },
+      {
+        "name": "LC FACE LOTION OILY 60ML",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LC_FACE_LOTION_OILY_60ML.png"
+      },
+      {
+        "name": "LC FACE WASH KAOLIN 50ML",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LC_FACE_WASH_KAOLIN_50ML.png"
+      },
+      {
+        "name": "LC FACE WASH VIT C 50ML",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LC_FACE_WASH_VIT_C_50ML.png"
+      },
+      {
+        "name": "LC NEW SUNSCREEN SPF30",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LC_NEW_SUNSCREEN_SPF30.png"
+      },
+      {
+        "name": "LC NEW SUNSCREEN SPF50",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LC_NEW_SUNSCREEN_SPF50.png"
+      },
+      {
+        "name": "LITTLES COM NIGHT STD L(62)",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LITTLES_COM_NIGHT_STD_L_62.png"
+      },
+      {
+        "name": "LITTLES COM NIGHT STD M74",
+        "packing": "6 S",
+        "image": ""
+      },
+      {
+        "name": "LITTLES COM P GT L(8)",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LITTLES_COM_P_GT_L_8.png"
+      },
+      {
+        "name": "LITTLES COM P GT M(9)",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LITTLES_COM_P_GT_M_8.png"
+      },
+      {
+        "name": "LITTLES COM P GT S10",
+        "packing": "1 S",
+        "image": ""
+      },
+      {
+        "name": "LITTLES COM P JUMBO L(30)",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LITTLES_COM_P_JUMBO_L_30.png"
+      },
+      {
+        "name": "LITTLES COM P JUMBO M(34)",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LITTLES_COM_P_JUMBO_M_34.png"
+      },
+      {
+        "name": "LITTLES COM P JUMBO S(40)",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LITTLES_COM_P_JUMBO_S_40.png"
+      },
+      {
+        "name": "LITTLES COM P JUMBO XL(26)",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LITTLES_COM_P_JUMBO_XL_26.png"
+      },
+      {
+        "name": "LITTLES COM P MID NB(11)",
+        "packing": "1 S",
+        "image": ""
+      },
+      {
+        "name": "LITTLES COM P MID XL(7)",
+        "packing": "1 S",
+        "image": ""
+      },
+      {
+        "name": "LITTLES COM P SINGLE L(1)",
+        "packing": "1 S",
+        "image": ""
+      },
+      {
+        "name": "LITTLES COM P SINGLE M(1)",
+        "packing": "1 S",
+        "image": ""
+      },
+      {
+        "name": "LITTLES COM P SINGLE S(1)",
+        "packing": "1 S",
+        "image": ""
+      },
+      {
+        "name": "LITTLES FLUF SOFT LARGE XL10",
+        "packing": "1 S",
+        "image": ""
+      },
+      {
+        "name": "LITTLES FLUF SOFT LARGE-XXL8",
+        "packing": "1 S",
+        "image": ""
+      },
+      {
+        "name": "LITTLES FLUFFY MINI NB(36)",
+        "packing": "1 S",
+        "image": ""
+      },
+      {
+        "name": "LITTLES FLUFFY SOFT L(2)",
+        "packing": "1 S",
+        "image": ""
+      },
+      {
+        "name": "LITTLES FLUFFY SOFT M(2)",
+        "packing": "1 S",
+        "image": ""
+      },
+      {
+        "name": "LITTLES FLUFFY SOFT S(2)",
+        "packing": "1 S",
+        "image": ""
+      },
+      {
+        "name": "LITTLES FLUFFY SOFT TAPE NB(9)",
+        "packing": "1 S",
+        "image": ""
+      },
+      {
+        "name": "LITTLES FLUFFY SOFT TAPE S(8)",
+        "packing": "1 S",
+        "image": ""
+      },
+      {
+        "name": "LITTLES WIPES MOIST 72S",
+        "packing": "1 S",
+        "image": ""
+      },
+      {
+        "name": "LITTLES WIPES MOIST 72S LID",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LITTLES_WIPES_MOIST_72S_LID.png"
+      },
+      {
+        "name": "NEKO DAILY HYG SOAP",
+        "packing": "100 GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/NEKO_DAILY_HYG_SOAP_100GM.png"
+      }
     ]
   },
   {
@@ -131,10 +527,26 @@
     "company": "DR. REDDY",
     "logo": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/assets/dotorreddy.png",
     "items": [
-      { "name": "VENUSIA CREAM 100GM", "packing": "100GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/VENUSIA_CREAM_100GM.png" },
-      { "name": "VENUSIA LOTION 100ML", "packing": "100ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/VENUSIA_LOTION_100ML.png" },
-      { "name": "VENUSIA MAX CREAM 150GM", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/VENUSIA_MAX_CREAM_150GM.png" },
-      { "name": "VENUSIA MAX LOTION 300ML", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/VENUSIA_MAX_LOTION_300ML.png" }
+      {
+        "name": "VENUSIA CREAM 100GM",
+        "packing": "100GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/VENUSIA_CREAM_100GM.png"
+      },
+      {
+        "name": "VENUSIA LOTION 100ML",
+        "packing": "100ML",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/VENUSIA_LOTION_100ML.png"
+      },
+      {
+        "name": "VENUSIA MAX CREAM 150GM",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/VENUSIA_MAX_CREAM_150GM.png"
+      },
+      {
+        "name": "VENUSIA MAX LOTION 300ML",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/VENUSIA_MAX_LOTION_300ML.png"
+      }
     ]
   },
   {
@@ -142,9 +554,21 @@
     "company": "CIPLA",
     "logo": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/assets/cipla.svg",
     "items": [
-      { "name": "EXCELA ANTI MOISTURIZER", "packing": "50GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/EXCELA_ANTI_MOISTURIZER_50gm.png" },
-      { "name": "EXCELA MAX MOISTURISER FR", "packing": "200GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/EXCELA_MAX_MOISTURISER_FR_200gm.png" },
-      { "name": "ORS LIQUID ORANGE", "packing": "200ML", "image": "" }
+      {
+        "name": "EXCELA ANTI MOISTURIZER",
+        "packing": "50GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/EXCELA_ANTI_MOISTURIZER_50gm.png"
+      },
+      {
+        "name": "EXCELA MAX MOISTURISER FR",
+        "packing": "200GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/EXCELA_MAX_MOISTURISER_FR_200gm.png"
+      },
+      {
+        "name": "ORS LIQUID ORANGE",
+        "packing": "200ML",
+        "image": ""
+      }
     ]
   },
   {
@@ -152,11 +576,31 @@
     "company": "ERIS THERAPEUTICS LIMITED",
     "logo": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/assets/eris.png",
     "items": [
-      { "name": "HALOVATE CREAM 30GM", "packing": "30GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HALOVATE_CREAM_30GM.png" },
-      { "name": "HALOVATE F CREAM 15GM", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HALOVATE_F_CREAM_15GM.png" },
-      { "name": "HALOVATE S OINT", "packing": "30GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HALOVATE_S_OINT_30GM.png" },
-      { "name": "ONABET CREAM 15GM", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/ONABET_CREAM_15GM.png" },
-      { "name": "ONABET CREAM 30 GM", "packing": "30 GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/ONABET_CREAM_30GM.png" }
+      {
+        "name": "HALOVATE CREAM 30GM",
+        "packing": "30GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HALOVATE_CREAM_30GM.png"
+      },
+      {
+        "name": "HALOVATE F CREAM 15GM",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HALOVATE_F_CREAM_15GM.png"
+      },
+      {
+        "name": "HALOVATE S OINT",
+        "packing": "30GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HALOVATE_S_OINT_30GM.png"
+      },
+      {
+        "name": "ONABET CREAM 15GM",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/ONABET_CREAM_15GM.png"
+      },
+      {
+        "name": "ONABET CREAM 30 GM",
+        "packing": "30 GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/ONABET_CREAM_30GM.png"
+      }
     ]
   },
   {
@@ -164,16 +608,56 @@
     "company": "GLENMARK PHARMACEUTICALS LTD.",
     "logo": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/assets/glenmark.png",
     "items": [
-      { "name": "ELOVERA CREAM 150GM", "packing": "150GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/ELOVERA_CREAM_150GM.png" },
-      { "name": "ELOVERA CREAM 75GM", "packing": "75GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/ELOVERA_CREAM_75GM.png" },
-      { "name": "LA SHIELD SUNSCREEN GEL", "packing": "50 GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LA_SHIELD_SUNSCREEN_GEL_50GM.png" },
-      { "name": "LASHIELD URBAN PROT SPF 50", "packing": "50 GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LASHIELD_URBAN_prot_SPF_50_50GM.png" },
-      { "name": "LITE GLO FACEWASH", "packing": "100 GM", "image": "" },
-      { "name": "MOMATE CREAM 10 GM", "packing": "1", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOMATE_CREAM_10GM.png" },
-      { "name": "MOMATE CREAM 20GM", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOMATE_CREAM_20GM.png" },
-      { "name": "MOMATE F CREAM 15 GM", "packing": "15 GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOMATE_F_CREAM_15_GM.png" },
-      { "name": "MOMATE F CREAM 20 GM", "packing": "15 GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOMATE_F_CREAM_20GM.png" },
-      { "name": "MOMATE S OINTMENT", "packing": "20 GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOMATE_S_OINTMENT_20GM.png" }
+      {
+        "name": "ELOVERA CREAM 150GM",
+        "packing": "150GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/ELOVERA_CREAM_150GM.png"
+      },
+      {
+        "name": "ELOVERA CREAM 75GM",
+        "packing": "75GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/ELOVERA_CREAM_75GM.png"
+      },
+      {
+        "name": "LA SHIELD SUNSCREEN GEL",
+        "packing": "50 GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LA_SHIELD_SUNSCREEN_GEL_50GM.png"
+      },
+      {
+        "name": "LASHIELD URBAN PROT SPF 50",
+        "packing": "50 GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LASHIELD_URBAN_prot_SPF_50_50GM.png"
+      },
+      {
+        "name": "LITE GLO FACEWASH",
+        "packing": "100 GM",
+        "image": ""
+      },
+      {
+        "name": "MOMATE CREAM 10 GM",
+        "packing": "1",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOMATE_CREAM_10GM.png"
+      },
+      {
+        "name": "MOMATE CREAM 20GM",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOMATE_CREAM_20GM.png"
+      },
+      {
+        "name": "MOMATE F CREAM 15 GM",
+        "packing": "15 GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOMATE_F_CREAM_15_GM.png"
+      },
+      {
+        "name": "MOMATE F CREAM 20 GM",
+        "packing": "15 GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOMATE_F_CREAM_20GM.png"
+      },
+      {
+        "name": "MOMATE S OINTMENT",
+        "packing": "20 GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOMATE_S_OINTMENT_20GM.png"
+      }
     ]
   },
   {
@@ -181,16 +665,56 @@
     "company": "GLOWDERMA LAB PVT. LTD.",
     "logo": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/assets/glowderma.jpg",
     "items": [
-      { "name": "KEVON CREAM 30GM", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/KEVON_CREAM_30GM.png" },
-      { "name": "KEVON LOTION 75ML", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/KEVON_LOTION_75ML.png" },
-      { "name": "KEVON SOAP 100GM", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/KEVON_SOAP_100GM.png" },
-      { "name": "MOIZ CLEANSING LOTION", "packing": "200 ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOIZ_CLEANSING_LOTION_200ML.png" },
-      { "name": "MOIZ CLEANSING LOTION 400 ML", "packing": "1", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOIZ_CLEANSING_LOTION_400ML.png" },
-      { "name": "MOIZ CREAM 50GM", "packing": "50 GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOIZ_CREAM_50GM.png" },
-      { "name": "MOIZ MM CREAM 18 %", "packing": "150 GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOIZ_MM_CREAM_18_150GM.png" },
-      { "name": "MOIZ MOI SOAP", "packing": "75 GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOIZ_MOI_SOAP_75GM.png" },
-      { "name": "MOIZ XL", "packing": "500 GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOIZ_XL_500GM.png" },
-      { "name": "MOIZ XL 200GM (18%)", "packing": "200GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOIZ_XL_200GM.png" }
+      {
+        "name": "KEVON CREAM 30GM",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/KEVON_CREAM_30GM.png"
+      },
+      {
+        "name": "KEVON LOTION 75ML",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/KEVON_LOTION_75ML.png"
+      },
+      {
+        "name": "KEVON SOAP 100GM",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/KEVON_SOAP_100GM.png"
+      },
+      {
+        "name": "MOIZ CLEANSING LOTION",
+        "packing": "200 ML",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOIZ_CLEANSING_LOTION_200ML.png"
+      },
+      {
+        "name": "MOIZ CLEANSING LOTION 400 ML",
+        "packing": "1",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOIZ_CLEANSING_LOTION_400ML.png"
+      },
+      {
+        "name": "MOIZ CREAM 50GM",
+        "packing": "50 GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOIZ_CREAM_50GM.png"
+      },
+      {
+        "name": "MOIZ MM CREAM 18 %",
+        "packing": "150 GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOIZ_MM_CREAM_18_150GM.png"
+      },
+      {
+        "name": "MOIZ MOI SOAP",
+        "packing": "75 GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOIZ_MOI_SOAP_75GM.png"
+      },
+      {
+        "name": "MOIZ XL",
+        "packing": "500 GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOIZ_XL_500GM.png"
+      },
+      {
+        "name": "MOIZ XL 200GM (18%)",
+        "packing": "200GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MOIZ_XL_200GM.png"
+      }
     ]
   },
   {
@@ -198,15 +722,51 @@
     "company": "AJANTA PHARMA LIMITED",
     "logo": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/assets/ajanta.jpg",
     "items": [
-      { "name": "AQUASOFT CREAM 100GM", "packing": "100GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/AQUASOFT_CREAM_100GM.png" },
-      { "name": "AQUASOFT CREAM 150GM", "packing": "150GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/AQUASOFT_CREAM_150GM.png" },
-      { "name": "AQUASOFT CREAM 60GM", "packing": "60GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/AQUASOFT_CREAM_60GM.png" },
-      { "name": "AQUASOFT FC CREAM", "packing": "100GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/AQUASOFT_FC_CREAM.png" },
-      { "name": "AQUASOFT FC CREAM 60GM", "packing": "60GM", "image": "" },
-      { "name": "AQUASOFT LOTION 100ML", "packing": "100ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/AQUASOFT_LOTION_100ML.png" },
-      { "name": "AQUASOFT LOTION 200ML", "packing": "200ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/AQUASOFT_LOTION_200ML.png" },
-      { "name": "AQUASOFT MAX CREAM 100GM", "packing": "100GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/AQUASOFT_MAX_CREAM_100GM.png" },
-      { "name": "AQUASOFT MAX CREAM 150GM", "packing": "150GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/AQUASOFT_MAX_CREAM_150GM.png" }
+      {
+        "name": "AQUASOFT CREAM 100GM",
+        "packing": "100GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/AQUASOFT_CREAM_100GM.png"
+      },
+      {
+        "name": "AQUASOFT CREAM 150GM",
+        "packing": "150GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/AQUASOFT_CREAM_150GM.png"
+      },
+      {
+        "name": "AQUASOFT CREAM 60GM",
+        "packing": "60GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/AQUASOFT_CREAM_60GM.png"
+      },
+      {
+        "name": "AQUASOFT FC CREAM",
+        "packing": "100GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/AQUASOFT_FC_CREAM.png"
+      },
+      {
+        "name": "AQUASOFT FC CREAM 60GM",
+        "packing": "60GM",
+        "image": ""
+      },
+      {
+        "name": "AQUASOFT LOTION 100ML",
+        "packing": "100ML",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/AQUASOFT_LOTION_100ML.png"
+      },
+      {
+        "name": "AQUASOFT LOTION 200ML",
+        "packing": "200ML",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/AQUASOFT_LOTION_200ML.png"
+      },
+      {
+        "name": "AQUASOFT MAX CREAM 100GM",
+        "packing": "100GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/AQUASOFT_MAX_CREAM_100GM.png"
+      },
+      {
+        "name": "AQUASOFT MAX CREAM 150GM",
+        "packing": "150GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/AQUASOFT_MAX_CREAM_150GM.png"
+      }
     ]
   },
   {
@@ -214,7 +774,11 @@
     "company": "INTAS PHARMACEUTICALS LTD",
     "logo": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/assets/intas.png",
     "items": [
-      { "name": "MILDY SHAMPOO", "packing": "100 ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MILDY_SHAMPOO_100ml.png" }
+      {
+        "name": "MILDY SHAMPOO",
+        "packing": "100 ML",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/MILDY_SHAMPOO_100ml.png"
+      }
     ]
   },
   {
@@ -222,9 +786,21 @@
     "company": "MICRO LABS LIMITED",
     "logo": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/assets/microlabs.png",
     "items": [
-      { "name": "AZIDERM 10% GEL", "packing": "15 GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/AZIDERM_10_GEL_15GM.png" },
-      { "name": "AZIDERM 20% CREAM", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/AZIDERM_20_CREAM.png" },
-      { "name": "AZIDERM 20% GEL", "packing": "15 GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/AZIDERM_20_GEL_15MG.png" }
+      {
+        "name": "AZIDERM 10% GEL",
+        "packing": "15 GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/AZIDERM_10_GEL_15GM.png"
+      },
+      {
+        "name": "AZIDERM 20% CREAM",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/AZIDERM_20_CREAM.png"
+      },
+      {
+        "name": "AZIDERM 20% GEL",
+        "packing": "15 GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/AZIDERM_20_GEL_15MG.png"
+      }
     ]
   },
   {
@@ -232,8 +808,16 @@
     "company": "CANIXA LIFE SCIENCES",
     "logo": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/assets/canixa.jpg",
     "items": [
-      { "name": "BENZONIX GEL WASH 50 GM", "packing": "50 GM", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/BENZONIX_GEL_WASH_50GM.png" },
-      { "name": "FACEMOIST CREAM 60GM", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/FACEMOIST_CREAM_60GM.png" }
+      {
+        "name": "BENZONIX GEL WASH 50 GM",
+        "packing": "50 GM",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/BENZONIX_GEL_WASH_50GM.png"
+      },
+      {
+        "name": "FACEMOIST CREAM 60GM",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/FACEMOIST_CREAM_60GM.png"
+      }
     ]
   },
   {
@@ -241,7 +825,11 @@
     "company": "SUNWAY PVT.LTD",
     "logo": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/assets/sunway.png",
     "items": [
-      { "name": "TRAVOSUN  T DROPS", "packing": "5 ML", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/TRAVOSUN_T_DROPS_5ML.png" }
+      {
+        "name": "TRAVOSUN  T DROPS",
+        "packing": "5 ML",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/TRAVOSUN_T_DROPS_5ML.png"
+      }
     ]
   },
   {
@@ -249,9 +837,21 @@
     "company": "UBIK SOLUTIONS PVT. LTD.",
     "logo": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/assets/ubik.png",
     "items": [
-      { "name": "ETHIGLO FACE WASH 200GM", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/ETHIGLO_FACE_WASH_200GM.png" },
-      { "name": "ETHIGLO FACE WASH 70GM", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/ETHIGLO_FACE_WASH_70GM.png" },
-      { "name": "ETHIGLO SOAP 75GM", "packing": "1 S", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/ETHIGLO_SOAP_75GM.png" }
+      {
+        "name": "ETHIGLO FACE WASH 200GM",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/ETHIGLO_FACE_WASH_200GM.png"
+      },
+      {
+        "name": "ETHIGLO FACE WASH 70GM",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/ETHIGLO_FACE_WASH_70GM.png"
+      },
+      {
+        "name": "ETHIGLO SOAP 75GM",
+        "packing": "1 S",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/ETHIGLO_SOAP_75GM.png"
+      }
     ]
   },
   {
@@ -259,58 +859,154 @@
     "company": "ADIVION PHARMACEUTICALS PRIVAT",
     "logo": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/assets/adivion.png",
     "items": [
-      { "name": "NUTRAVION PLUS", "packing": "1* 10", "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/NUTRAVION_PLUS_1_10.png" },
-      { "name": "PANTAVION D", "packing": "1*10", "image": "" },
-      { "name": "SERAVION-SP", "packing": "1* 10", "image": "" },
-      { "name": "SOFTVION SYRUP", "packing": "170ML", "image": "" }
+      {
+        "name": "NUTRAVION PLUS",
+        "packing": "1* 10",
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/NUTRAVION_PLUS_1_10.png"
+      },
+      {
+        "name": "PANTAVION D",
+        "packing": "1*10",
+        "image": ""
+      },
+      {
+        "name": "SERAVION-SP",
+        "packing": "1* 10",
+        "image": ""
+      },
+      {
+        "name": "SOFTVION SYRUP",
+        "packing": "170ML",
+        "image": ""
+      }
     ]
   },
   {
     "id": 17,
     "company": "ABBOTT",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/assets/abbott.png",
     "items": [
-      { "name": "ICIKINASE 15LAC INJ", "packing": "EACH", "image": "" }
+      {
+        "name": "ICIKINASE 15LAC INJ",
+        "packing": "EACH",
+        "image": ""
+      }
     ]
   },
   {
     "id": 18,
     "company": "AMAR",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/assets/amar.png",
     "items": [
-      { "name": "GLYCERIN 100GM", "packing": "100GM", "image": "" },
-      { "name": "HYDROGEN 400ML", "packing": "1", "image": "" },
-      { "name": "SPIRIT 25% DOC", "packing": "400ML", "image": "" }
+      {
+        "name": "GLYCERIN 100GM",
+        "packing": "100GM",
+        "image": ""
+      },
+      {
+        "name": "HYDROGEN 400ML",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "SPIRIT 25% DOC",
+        "packing": "400ML",
+        "image": ""
+      }
     ]
   },
   {
     "id": 19,
     "company": "AQUA",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/assets/aqua.png",
     "items": [
-      { "name": "PAM INJ", "packing": "1", "image": "" }
+      {
+        "name": "PAM INJ",
+        "packing": "1",
+        "image": ""
+      }
     ]
   },
   {
     "id": 20,
     "company": "BIOGEN",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/assets/biogen.png",
     "items": [
-      { "name": "BESIX 2ML INJ", "packing": "4ML", "image": "" },
-      { "name": "BIOVIL INJ", "packing": "2ML", "image": "" },
-      { "name": "BUSCOGEN INJ 1ML", "packing": "1ML", "image": "" },
-      { "name": "CALCIUM GLUCONATE 10ML", "packing": "10ML", "image": "" },
-      { "name": "DERIFINE 2ML INJ", "packing": "2ML", "image": "" },
-      { "name": "DOXYGLEX-100 INJ", "packing": "1", "image": "" },
-      { "name": "DROTARIN INJ 2ML", "packing": "2ML", "image": "" },
-      { "name": "FORTAZID TZ 1.125 INJ", "packing": "1", "image": "" },
-      { "name": "LOPAZEST 2ML INJ", "packing": "2ML", "image": "" },
-      { "name": "MEDAZOLAM 10ML INJ", "packing": "10ML", "image": "" },
-      { "name": "PARALEAD INJ 2ML", "packing": "2ML", "image": "" },
-      { "name": "PNAR-GYN 2ML INJ", "packing": "2ML", "image": "" },
-      { "name": "SERESTIN 1ML INJ", "packing": "1ML", "image": "" },
-      { "name": "SYLETON 2ML INJ", "packing": "2ML", "image": "" },
-      { "name": "THIACAN 200 INJ", "packing": "2ML", "image": "" }
+      {
+        "name": "BESIX 2ML INJ",
+        "packing": "4ML",
+        "image": ""
+      },
+      {
+        "name": "BIOVIL INJ",
+        "packing": "2ML",
+        "image": ""
+      },
+      {
+        "name": "BUSCOGEN INJ 1ML",
+        "packing": "1ML",
+        "image": ""
+      },
+      {
+        "name": "CALCIUM GLUCONATE 10ML",
+        "packing": "10ML",
+        "image": ""
+      },
+      {
+        "name": "DERIFINE 2ML INJ",
+        "packing": "2ML",
+        "image": ""
+      },
+      {
+        "name": "DOXYGLEX-100 INJ",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "DROTARIN INJ 2ML",
+        "packing": "2ML",
+        "image": ""
+      },
+      {
+        "name": "FORTAZID TZ 1.125 INJ",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "LOPAZEST 2ML INJ",
+        "packing": "2ML",
+        "image": ""
+      },
+      {
+        "name": "MEDAZOLAM 10ML INJ",
+        "packing": "10ML",
+        "image": ""
+      },
+      {
+        "name": "PARALEAD INJ 2ML",
+        "packing": "2ML",
+        "image": ""
+      },
+      {
+        "name": "PNAR-GYN 2ML INJ",
+        "packing": "2ML",
+        "image": ""
+      },
+      {
+        "name": "SERESTIN 1ML INJ",
+        "packing": "1ML",
+        "image": ""
+      },
+      {
+        "name": "SYLETON 2ML INJ",
+        "packing": "2ML",
+        "image": ""
+      },
+      {
+        "name": "THIACAN 200 INJ",
+        "packing": "2ML",
+        "image": ""
+      }
     ]
   },
   {
@@ -318,7 +1014,11 @@
     "company": "BIPSON",
     "logo": "",
     "items": [
-      { "name": "BIPOSODINE PLUS 10 % 500ML", "packing": "500ML", "image": "" }
+      {
+        "name": "BIPOSODINE PLUS 10 % 500ML",
+        "packing": "500ML",
+        "image": ""
+      }
     ]
   },
   {
@@ -326,7 +1026,11 @@
     "company": "DIAMOND",
     "logo": "",
     "items": [
-      { "name": "BP OPRETAOR DIAMOND (DELUXE)", "packing": "1", "image": "" }
+      {
+        "name": "BP OPRETAOR DIAMOND (DELUXE)",
+        "packing": "1",
+        "image": ""
+      }
     ]
   },
   {
@@ -334,7 +1038,11 @@
     "company": "DR MORPHIN",
     "logo": "",
     "items": [
-      { "name": "STRIPS GLUCO ONE 50S", "packing": "50S", "image": "" }
+      {
+        "name": "STRIPS GLUCO ONE 50S",
+        "packing": "50S",
+        "image": ""
+      }
     ]
   },
   {
@@ -342,8 +1050,16 @@
     "company": "ETHICON",
     "logo": "",
     "items": [
-      { "name": "ETHILON 2.0", "packing": "1", "image": "" },
-      { "name": "ETHILON 3.0", "packing": "1", "image": "" }
+      {
+        "name": "ETHILON 2.0",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "ETHILON 3.0",
+        "packing": "1",
+        "image": ""
+      }
     ]
   },
   {
@@ -351,7 +1067,11 @@
     "company": "GEN",
     "logo": "",
     "items": [
-      { "name": "BED PAN", "packing": "1", "image": "" }
+      {
+        "name": "BED PAN",
+        "packing": "1",
+        "image": ""
+      }
     ]
   }
 ]

@@ -5,6 +5,21 @@
     "logo": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/assets/torrrent.png",
     "items": [
       {
+        "name": "AHAGLOW FACEWASH 100GM",
+        "packing": "100GM",
+        "image": ""
+      },
+      {
+        "name": "AHAGLOW FACEWASH 50GM",
+        "packing": "50GM",
+        "image": ""
+      },
+      {
+        "name": "ATOGLA CREAM",
+        "packing": "100ML",
+        "image": ""
+      },
+      {
         "name": "ATOGLA LOTION",
         "packing": "100ML",
         "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/ATOGLA_LOTION_100ML.png"
@@ -13,6 +28,11 @@
         "name": "ATOGLA LOTION 200ML",
         "packing": "200ML",
         "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/ATOGLA_LOTION_200ML.png"
+      },
+      {
+        "name": "B4 NAPPI CREAM",
+        "packing": "75GM",
+        "image": ""
       },
       {
         "name": "SPOO SHAMPOO 125ML",
@@ -62,6 +82,11 @@
         "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CETAPHIL_BABY_GENTLE_WASH_SHAMPO_230ml.png"
       },
       {
+        "name": "CETAPHIL BABY LOTION",
+        "packing": "400ML",
+        "image": ""
+      },
+      {
         "name": "CETAPHIL BAR 75GM",
         "packing": "75GM",
         "image": ""
@@ -87,6 +112,11 @@
         "image": ""
       },
       {
+        "name": "CETAPHIL HYDRATAING FOAM CLEANSER",
+        "packing": "236ML",
+        "image": ""
+      },
+      {
         "name": "CETAPHIL HYDRATING FOAM CLEANSER",
         "packing": "236ML",
         "image": ""
@@ -94,6 +124,11 @@
       {
         "name": "CETAPHIL MOISTURISING CREAM",
         "packing": "100GM",
+        "image": ""
+      },
+      {
+        "name": "CETAPHIL MOISTURISING LOTION",
+        "packing": "59ML",
         "image": ""
       },
       {
@@ -169,6 +204,16 @@
         "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_BABY_CREAM_50ML.png"
       },
       {
+        "name": "HIM BABY GIFT PACK 285 MRP",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "HIM BABY GIFT PACK 7 S",
+        "packing": "1",
+        "image": ""
+      },
+      {
         "name": "HIM BABY HAIR OIL 100ML",
         "packing": "100 ML",
         "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_BABY_HAIR_OIL_50ML.png"
@@ -214,9 +259,19 @@
         "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_BABY_PRICKLY_H_POW_50GM.png"
       },
       {
+        "name": "HIM BABY SHAMPOO 100ML",
+        "packing": "100ML",
+        "image": ""
+      },
+      {
         "name": "HIM BABY SHAMPOO 60ML",
         "packing": "1 S",
         "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_BABY_SHAMPOO_60ML.png"
+      },
+      {
+        "name": "HIM BABY SOAP  75G 5+1",
+        "packing": "75GM",
+        "image": ""
       },
       {
         "name": "HIM BABY SOAP GENTAL 125GM",
@@ -239,6 +294,16 @@
         "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_CREAM_100ML.png"
       },
       {
+        "name": "HIM DIAPER RASH CREAM 20G",
+        "packing": "20GM",
+        "image": ""
+      },
+      {
+        "name": "HIM GHEE DIPER RASH CREM",
+        "packing": "20GM",
+        "image": ""
+      },
+      {
         "name": "HIM GHEE WASH 100ML",
         "packing": "100ML",
         "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_GHEE_WASH_100ML.png"
@@ -259,6 +324,16 @@
         "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_POWDER_PRICKLYHEAT_100GM.png"
       },
       {
+        "name": "HIM SOFT & GENTAL WIPES",
+        "packing": "72S",
+        "image": ""
+      },
+      {
+        "name": "HIMALAYA LID WIPES",
+        "packing": "1",
+        "image": ""
+      },
+      {
         "name": "HIM SHAMPOO 100ML",
         "packing": "100ML",
         "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_SHAMPOO_100ML.png"
@@ -277,6 +352,11 @@
         "name": "LIV 52 TAB",
         "packing": "100 S",
         "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LIV_52_TAB_100S.png"
+      },
+      {
+        "name": "LIV-52 SYP 100ML",
+        "packing": "100ML",
+        "image": ""
       },
       {
         "name": "PILEX TAB",
@@ -316,6 +396,16 @@
         "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CALADRYL_LOTION_65ML.png"
       },
       {
+        "name": "CIR ADULT DIPER XL1",
+        "packing": "XL1",
+        "image": ""
+      },
+      {
+        "name": "CIR ADULT PANT M1",
+        "packing": "M1",
+        "image": ""
+      },
+      {
         "name": "CIR CLASSIC A D P L(10)",
         "packing": "1 S",
         "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CIR_CLASSIC_A_D_P_L_10.png"
@@ -329,6 +419,11 @@
         "name": "CIR CLASSIC A D P XL(10)",
         "packing": "1 S",
         "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CIR_CLASSIC_A_D_P_XL_10.png"
+      },
+      {
+        "name": "CIR DIPER PANT L1",
+        "packing": "L1",
+        "image": ""
       },
       {
         "name": "CIR PRE ADULT DIAPER L(10)",
@@ -396,6 +491,11 @@
         "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LC_NEW_SUNSCREEN_SPF50.png"
       },
       {
+        "name": "LITTLES  GT  M8",
+        "packing": "1",
+        "image": ""
+      },
+      {
         "name": "LITTLES COM NIGHT STD L(62)",
         "packing": "1 S",
         "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LITTLES_COM_NIGHT_STD_L_62.png"
@@ -403,6 +503,21 @@
       {
         "name": "LITTLES COM NIGHT STD M74",
         "packing": "6 S",
+        "image": ""
+      },
+      {
+        "name": "LITTLES COM NIGHT STD S78",
+        "packing": "S78",
+        "image": ""
+      },
+      {
+        "name": "LITTLES COM NIGHT STD XL54",
+        "packing": "XL54",
+        "image": ""
+      },
+      {
+        "name": "LITTLES COM NIGHT XXL 42",
+        "packing": "XXL",
         "image": ""
       },
       {
@@ -463,6 +578,16 @@
       {
         "name": "LITTLES COM P SINGLE S(1)",
         "packing": "1 S",
+        "image": ""
+      },
+      {
+        "name": "LITTLES COM P SINGLES NB1",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "LITTLES COM P SINGLES XL1",
+        "packing": "1",
         "image": ""
       },
       {
@@ -838,6 +963,11 @@
     "logo": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/assets/ubik.png",
     "items": [
       {
+        "name": "ETHIGLO ET EFE 15 TAB",
+        "packing": "15TAB",
+        "image": ""
+      },
+      {
         "name": "ETHIGLO FACE WASH 200GM",
         "packing": "1 S",
         "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/ETHIGLO_FACE_WASH_200GM.png"
@@ -968,6 +1098,16 @@
         "image": ""
       },
       {
+        "name": "DYPAINS-AQ 1ML",
+        "packing": "1ML",
+        "image": ""
+      },
+      {
+        "name": "ESMOTAZ 40MG INJ",
+        "packing": "40MG",
+        "image": ""
+      },
+      {
         "name": "FORTAZID TZ 1.125 INJ",
         "packing": "1",
         "image": ""
@@ -983,6 +1123,21 @@
         "image": ""
       },
       {
+        "name": "MEROGLEX 500MG",
+        "packing": "500MG",
+        "image": ""
+      },
+      {
+        "name": "MUCOXIN 5ML INJ",
+        "packing": "5ML",
+        "image": ""
+      },
+      {
+        "name": "ONDILON 2ML INJ",
+        "packing": "2ML",
+        "image": ""
+      },
+      {
         "name": "PARALEAD INJ 2ML",
         "packing": "2ML",
         "image": ""
@@ -990,6 +1145,11 @@
       {
         "name": "PNAR-GYN 2ML INJ",
         "packing": "2ML",
+        "image": ""
+      },
+      {
+        "name": "PROZCAN 40 INJ",
+        "packing": "40MG",
         "image": ""
       },
       {
@@ -1017,6 +1177,21 @@
       {
         "name": "BIPOSODINE PLUS 10 % 500ML",
         "packing": "500ML",
+        "image": ""
+      },
+      {
+        "name": "CREPE BANDAGE 15CM/4M",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "DYNAFIX 10CM 4M",
+        "packing": "10CM",
+        "image": ""
+      },
+      {
+        "name": "GAUZ SWAB 10*10",
+        "packing": "1",
         "image": ""
       }
     ]
@@ -1059,6 +1234,11 @@
         "name": "ETHILON 3.0",
         "packing": "1",
         "image": ""
+      },
+      {
+        "name": "SN 4259 TRUGUT NO .1",
+        "packing": "1",
+        "image": ""
       }
     ]
   },
@@ -1069,6 +1249,1289 @@
     "items": [
       {
         "name": "BED PAN",
+        "packing": "1",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "company": "ACULIFE",
+    "logo": "",
+    "items": [
+      {
+        "name": "NS 250ML ACULIFE",
+        "packing": "250ML",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "company": "ANTEX PHARMA",
+    "logo": "",
+    "items": [
+      {
+        "name": "ELDERVIT-12 INJ",
+        "packing": "EACH",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "company": "AYUSURGE PHARMA PVT.LTD",
+    "logo": "",
+    "items": [
+      {
+        "name": "COFSHIELD ADULSA COUGH SYP",
+        "packing": "100ML",
+        "image": ""
+      },
+      {
+        "name": "COFSHIELD LOZENGES  ORANGE BLISTERN",
+        "packing": "30S",
+        "image": ""
+      },
+      {
+        "name": "COFSHIELD SMOKERS COUGH SYP",
+        "packing": "100ML",
+        "image": ""
+      },
+      {
+        "name": "QKRELIEF PAIN OIL ROLL ON",
+        "packing": "60ML",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "company": "BIPSON SURGICAL PVT",
+    "logo": "",
+    "items": [
+      {
+        "name": "BACTIGRASS 10*10*",
+        "packing": "1",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "company": "FDC",
+    "logo": "",
+    "items": [
+      {
+        "name": "ELECTRAL 4.4 G ORAANGE",
+        "packing": "4.4G",
+        "image": ""
+      },
+      {
+        "name": "ELECTRAL ORANGE LIQUID",
+        "packing": "200ML",
+        "image": ""
+      },
+      {
+        "name": "ELECTRAL ORANGE POWDER 21.8G",
+        "packing": "21.8G",
+        "image": ""
+      },
+      {
+        "name": "ELECTRAL POWDER 21.8G",
+        "packing": "21.8",
+        "image": ""
+      },
+      {
+        "name": "ELECTRAL POWDER 404G",
+        "packing": "4.4G",
+        "image": ""
+      },
+      {
+        "name": "ENERZAL LIQUID",
+        "packing": "400ML",
+        "image": ""
+      },
+      {
+        "name": "ENERZAL LIQUID ORAANGE 200ML",
+        "packing": "200ML",
+        "image": ""
+      },
+      {
+        "name": "ENERZAL ORANGE POWDER 75 G",
+        "packing": "75GM",
+        "image": ""
+      },
+      {
+        "name": "ENERZAL ZERO ORANGE",
+        "packing": "500M",
+        "image": ""
+      },
+      {
+        "name": "FLEMICLAV 625 TAB",
+        "packing": "10T",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "company": "H & H",
+    "logo": "",
+    "items": [
+      {
+        "name": "DEEMADEW BABY PLUS SOAP",
+        "packing": "75GM",
+        "image": ""
+      },
+      {
+        "name": "DERMADEW ACNE SOAP",
+        "packing": "75GM",
+        "image": ""
+      },
+      {
+        "name": "DERMADEW FACE WASH",
+        "packing": "100ML",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "company": "HAIDEN",
+    "logo": "",
+    "items": [
+      {
+        "name": "CONTROL D GLUCOMETER",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "CONTROL D STRIPS  100",
+        "packing": "100S",
+        "image": ""
+      },
+      {
+        "name": "CONTROL D STRIPS 50",
+        "packing": "1",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "company": "HMD",
+    "logo": "",
+    "items": [
+      {
+        "name": "DISPO 10ML (21)",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "DISPO 2.5ML (24)",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "DISPO 5ML (22)",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "DISPOI 2ML (23)",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "DISPOVAN 10ML 70/32 22NEEDLE",
+        "packing": "1 BOX",
+        "image": ""
+      },
+      {
+        "name": "DISPOVAN 20ML",
+        "packing": "20ML",
+        "image": ""
+      },
+      {
+        "name": "DISPOVAN 50ML",
+        "packing": "50ML",
+        "image": ""
+      },
+      {
+        "name": "DISPOVAN 5ML/6ML",
+        "packing": "24G",
+        "image": ""
+      },
+      {
+        "name": "DISPOVAN NEEDLE 18 NO",
+        "packing": "18NO",
+        "image": ""
+      },
+      {
+        "name": "DISPOVAN NEEDLE 22NO",
+        "packing": "1 BOX",
+        "image": ""
+      },
+      {
+        "name": "DISPOVAN NEEDLE 23 N0",
+        "packing": "1BOX",
+        "image": ""
+      },
+      {
+        "name": "DISPOVAN NEEDLE 24 NO",
+        "packing": "1 BOX",
+        "image": ""
+      },
+      {
+        "name": "DISPOVAN NEEDLE 45/13-26/2",
+        "packing": "1 BOX",
+        "image": ""
+      },
+      {
+        "name": "INSULIN SYRINGE MP-40",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "KIT KATH 18 NO CANNULA",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "KIT KATH 20 NO CANULA",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "KIT KATH 24 NO CANULA",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "KITH KATH IV CANNULA 22NO",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "SCALP VAN INFU.SET 22NO",
+        "packing": "1S",
+        "image": ""
+      },
+      {
+        "name": "SCALP VAN INFU.SET. 23NO",
+        "packing": "1S",
+        "image": ""
+      },
+      {
+        "name": "SCALP VEIN SET 21",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "SPINAL NEEDLE 20NO",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "SPINAL NEEDLE 25 (TOP)",
+        "packing": "1",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "company": "JNS",
+    "logo": "",
+    "items": [
+      {
+        "name": "I V SET",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "I V SET (JNS) PRIMIUM",
+        "packing": "1",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "company": "LABORATE",
+    "logo": "",
+    "items": [
+      {
+        "name": "L-VIT INJ 30ML",
+        "packing": "30ML",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "company": "LIFETIME",
+    "logo": "",
+    "items": [
+      {
+        "name": "STETHASCOPE (LIFE TIME)",
+        "packing": "1",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "company": "M H T",
+    "logo": "",
+    "items": [
+      {
+        "name": "I V SET M. H. T",
+        "packing": "1",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "company": "MANKIND",
+    "logo": "",
+    "items": [
+      {
+        "name": "PANTAKIND INJ 10ML",
+        "packing": "10ML",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "company": "MEDITECH",
+    "logo": "",
+    "items": [
+      {
+        "name": "NEBULIZER MASCHINE  MEDITECH",
+        "packing": "1",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "company": "MICROTEK",
+    "logo": "",
+    "items": [
+      {
+        "name": "DIGITAL THARMAMETER",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "PULSE OXIMETER (MICRO)",
+        "packing": "1",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "company": "NEON",
+    "logo": "",
+    "items": [
+      {
+        "name": "AMIODON INJ",
+        "packing": "3ML",
+        "image": ""
+      },
+      {
+        "name": "CORT-S 100MG INJ",
+        "packing": "100MG",
+        "image": ""
+      },
+      {
+        "name": "DOMIN- 5ML INJ",
+        "packing": "5ML",
+        "image": ""
+      },
+      {
+        "name": "EPICETAM 5ML INJ",
+        "packing": "5ML",
+        "image": ""
+      },
+      {
+        "name": "EUPEN 1GM INJ",
+        "packing": "1GM",
+        "image": ""
+      },
+      {
+        "name": "INJEK 10MG INJ",
+        "packing": "1ML",
+        "image": ""
+      },
+      {
+        "name": "KLOTIN 5ML INJ",
+        "packing": "5ML",
+        "image": ""
+      },
+      {
+        "name": "LABLOL INJ",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "LINETIC 300ML IV",
+        "packing": "300ML",
+        "image": ""
+      },
+      {
+        "name": "LOX 2% 30ML INJ",
+        "packing": "30ML",
+        "image": ""
+      },
+      {
+        "name": "LOX 2% WITH ADRELIN INJ",
+        "packing": "30ML",
+        "image": ""
+      },
+      {
+        "name": "LOX-2% JELLY",
+        "packing": "EACH",
+        "image": ""
+      },
+      {
+        "name": "MIODON 3ML INJ",
+        "packing": "3ML",
+        "image": ""
+      },
+      {
+        "name": "NEODROL 125MG INJ",
+        "packing": "125MG",
+        "image": ""
+      },
+      {
+        "name": "NEODROL 1GM INJ",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "NEODROL 40MG INJ",
+        "packing": "40MG",
+        "image": ""
+      },
+      {
+        "name": "NEODROL 500MG INJ",
+        "packing": "500MG",
+        "image": ""
+      },
+      {
+        "name": "NEOMIT-4MG INJ",
+        "packing": "2ML",
+        "image": ""
+      },
+      {
+        "name": "NEOMOL I.V 100ML",
+        "packing": "100ML",
+        "image": ""
+      },
+      {
+        "name": "NITROPLUS 5ML INJ",
+        "packing": "5ML",
+        "image": ""
+      },
+      {
+        "name": "NITROPLUS INJECTION",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "NORAD 2ML INJ",
+        "packing": "2ML",
+        "image": ""
+      },
+      {
+        "name": "RENOCEL 10000 INJ",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "RENOCEL 4000 INJ",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "SODAC 10ML INJ",
+        "packing": "10ML",
+        "image": ""
+      },
+      {
+        "name": "TERLIEON INJ 1MG/10ML",
+        "packing": "10ML",
+        "image": ""
+      },
+      {
+        "name": "TROPINE INJ",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "VANKING 1GM INJ",
+        "packing": "1GM",
+        "image": ""
+      },
+      {
+        "name": "VANKING 500MG INJ",
+        "packing": "500GM",
+        "image": ""
+      },
+      {
+        "name": "VASOCON INJ",
+        "packing": "1",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "company": "NOBAL HYGEIN LIMITED",
+    "logo": "",
+    "items": [
+      {
+        "name": "TEDDY B.D. (SMALL)",
+        "packing": "S",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "company": "NULIFE",
+    "logo": "",
+    "items": [
+      {
+        "name": "EXAM GLOVES (MEDIUM)",
+        "packing": "200S",
+        "image": ""
+      },
+      {
+        "name": "GLOVES NO 7",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "GLOVES NO7/12",
+        "packing": "1",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "company": "ONE DRIP",
+    "logo": "",
+    "items": [
+      {
+        "name": "DNS 250ML (ONEDRIP)",
+        "packing": "250ML",
+        "image": ""
+      },
+      {
+        "name": "MANITOL 100ML ONEDRIP",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "NS 0.45 %",
+        "packing": "500ML",
+        "image": ""
+      },
+      {
+        "name": "NS 250ML ONEDRIP",
+        "packing": "250ML",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "company": "OSG",
+    "logo": "",
+    "items": [
+      {
+        "name": "OSG SHOULDER SUPPORT",
+        "packing": "1",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "company": "OTHER",
+    "logo": "",
+    "items": [
+      {
+        "name": "ADULT DIPER  TAPE  L",
+        "packing": "L10",
+        "image": ""
+      },
+      {
+        "name": "ADULT DIPER  TAPE XL 10",
+        "packing": "XL10",
+        "image": ""
+      },
+      {
+        "name": "ADULT DIPER PANT XL",
+        "packing": "XL10",
+        "image": ""
+      },
+      {
+        "name": "ADULT DIPER TAPE M10",
+        "packing": "M10",
+        "image": ""
+      },
+      {
+        "name": "ADULT DIPPER PANT M",
+        "packing": "M10",
+        "image": ""
+      },
+      {
+        "name": "BACTIGRAS",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "BANDAGE 10CM",
+        "packing": "10CM",
+        "image": ""
+      },
+      {
+        "name": "BANDAGE 15CM",
+        "packing": "15CM",
+        "image": ""
+      },
+      {
+        "name": "BANDAGE 5CM 3MTR",
+        "packing": "5CM",
+        "image": ""
+      },
+      {
+        "name": "BANDAGE 7.5CM",
+        "packing": "7.5CM",
+        "image": ""
+      },
+      {
+        "name": "BLOOD LANSET",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "CANNULA FIXAL",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "COTTON 20GM",
+        "packing": "20GM",
+        "image": ""
+      },
+      {
+        "name": "CRAPE BANDAGE 5CM (2INCH)",
+        "packing": "5CM",
+        "image": ""
+      },
+      {
+        "name": "CRAPE BANDAGE 7.5CM (3INCH)",
+        "packing": "7.5CM",
+        "image": ""
+      },
+      {
+        "name": "FACE MASK",
+        "packing": "100",
+        "image": ""
+      },
+      {
+        "name": "FIRST AID KIT",
+        "packing": "MED",
+        "image": ""
+      },
+      {
+        "name": "FIRST AID KIT SMALL",
+        "packing": "SMALL",
+        "image": ""
+      },
+      {
+        "name": "GAUZE COTTON DLX",
+        "packing": "100",
+        "image": ""
+      },
+      {
+        "name": "IODINE (BIPSODINE PLUS 10%)",
+        "packing": "100ML",
+        "image": ""
+      },
+      {
+        "name": "LUMBO L.S BELT S(S)",
+        "packing": "S",
+        "image": ""
+      },
+      {
+        "name": "MGSO4 POWDER 20GM",
+        "packing": "20GM",
+        "image": ""
+      },
+      {
+        "name": "RAZOR",
+        "packing": "1",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "company": "POLYMED",
+    "logo": "",
+    "items": [
+      {
+        "name": "3 WAY (COCK)",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "3 WAY 10CM (POLYMED)",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "3 WAY 10CM POLYMED",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "3 WAY150 CM",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "AIRWAY 3NO",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "AIRWAY 4NO",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "AIRWAY 5NO",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "B.T SET",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "CHEST LEAD",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "DOUBLE LUMAN",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "DRAPE SHEET PLAN",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "E.T TUBE 6.5 NO POLY",
+        "packing": "6.5NO",
+        "image": ""
+      },
+      {
+        "name": "E.T TUBE 7.5NO",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "E.T TUBE 7NO",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "E.T TUBE 8NO",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "E.T. TUBE 6NO PLOY",
+        "packing": "6NO",
+        "image": ""
+      },
+      {
+        "name": "EXTENSION TUBE 150CM",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "FOLYES 12 NO",
+        "packing": "12NO",
+        "image": ""
+      },
+      {
+        "name": "FOLYES CATH 10",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "FOLYS CATH 14",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "FOLYS CATH 16",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "I V SET POLYMED",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "MICRO IV SET METER",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "MICRO SET RIBBON PACK",
+        "packing": "25",
+        "image": ""
+      },
+      {
+        "name": "MOUNT CATHETER",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "NEB MASK ADULT",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "RYLES TUBE 12",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "RYLES TUBE 14",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "RYLES TUBE 16",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "SILICON CATHER 14",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "SUCTION CATHETER 14FG",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "SUCTION CATHETER 16FG",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "SUPRIDOL 2ML INJ",
+        "packing": "2ML",
+        "image": ""
+      },
+      {
+        "name": "TRIPLE LUMEN 7FR (CVC)",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "UNDER PAD",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "URINE BAG ECO",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "UROMETER POLYMED",
+        "packing": "1",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "company": "RANBAXY",
+    "logo": "",
+    "items": [
+      {
+        "name": "OFRAMAX FORTE 1.5GM INJ",
+        "packing": "1.5GM",
+        "image": ""
+      },
+      {
+        "name": "OTRS LIQUID APPLE",
+        "packing": "30ML",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "company": "RELIANCE LIFE SCIENCES",
+    "logo": "",
+    "items": [
+      {
+        "name": "ALBUREL 20% 100ML",
+        "packing": "20G",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "company": "ROMSONS",
+    "logo": "",
+    "items": [
+      {
+        "name": "CVP MANOMETER",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "HI MASK ROMSON",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "I V SET (ROMSONS)",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "WIPAX",
+        "packing": "1",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "company": "SACHIN PARENTERAL PVT",
+    "logo": "",
+    "items": [
+      {
+        "name": "D-25 100ML",
+        "packing": "100ML",
+        "image": ""
+      },
+      {
+        "name": "D5 250ML",
+        "packing": "250",
+        "image": ""
+      },
+      {
+        "name": "D5 500ML",
+        "packing": "500ML",
+        "image": ""
+      },
+      {
+        "name": "DNS 250ML",
+        "packing": "250ML",
+        "image": ""
+      },
+      {
+        "name": "DNS 500ML (SAC)",
+        "packing": "500ML",
+        "image": ""
+      },
+      {
+        "name": "MANITTOL 100ML  SAFEPORT",
+        "packing": "100ML",
+        "image": ""
+      },
+      {
+        "name": "METRO 100ML (SAC)",
+        "packing": "100ML",
+        "image": ""
+      },
+      {
+        "name": "NS 1 LTR",
+        "packing": "1000ML",
+        "image": ""
+      },
+      {
+        "name": "NS 100 (SAC)",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "NS 100ML 3% INJ",
+        "packing": "100ML",
+        "image": ""
+      },
+      {
+        "name": "NS 250ML",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "NS 500ML (SAC)",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "RL 500 ML (SAC)",
+        "packing": "500ML",
+        "image": ""
+      },
+      {
+        "name": "SAFEPORT DNS 500ML",
+        "packing": "500ML",
+        "image": ""
+      },
+      {
+        "name": "SAFEPORT NS 100ML",
+        "packing": "100ML",
+        "image": ""
+      },
+      {
+        "name": "SAFEPORT NS 500ML",
+        "packing": "500ML",
+        "image": ""
+      },
+      {
+        "name": "SAFEPORT RL 500ML",
+        "packing": "500ML",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "company": "SAMARTH LIFE SCIENCES PVT.LTD",
+    "logo": "",
+    "items": [
+      {
+        "name": "ADRENOR 2ML INJ",
+        "packing": "2ML",
+        "image": ""
+      },
+      {
+        "name": "CAPRIN 5000 INJ",
+        "packing": "EACH",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "company": "TYNOR",
+    "logo": "",
+    "items": [
+      {
+        "name": "ANKLE BINDER LARGE",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "ANKLE BINDER MEDIUM",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "ANKLE BINDER SMALL",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "ARM POUCH LARGE",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "ARM POUCH MEDIUM",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "CERVICAL C SOFT MEDIUM",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "CERVICAL SMALL SOFT",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "ELBOE SUPPORT LARGE",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "ELBOO SUPOORT S",
+        "packing": "S",
+        "image": ""
+      },
+      {
+        "name": "ELBOW SUPPORT MEDIUM",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "KNEE CAP",
+        "packing": "XL",
+        "image": ""
+      },
+      {
+        "name": "KNEE CAP EXTRA LARGE",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "KNEE CAP LARGE",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "KNEE CAP MEDIUM",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "KNEE CAP SMALL",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "KNEE IMMODILIZER M",
+        "packing": "M",
+        "image": ""
+      },
+      {
+        "name": "KNEE SUPPORT HINGED",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "LUMBAR BELT LARGE (OAC)",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "LUMBAR BELT MEDIUM (OAS)",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "TENNIS ELBOE SUPPORT XL",
+        "packing": "XL",
+        "image": ""
+      },
+      {
+        "name": "TENNIS ELBOW SUPPORT LARGE",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "TENNIS ELBOW SUPPORT MEDIUM",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "TENNIS ELBOW SUPPORT S",
+        "packing": "S",
+        "image": ""
+      },
+      {
+        "name": "UNIVERSAL SHOLDER IMM",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "WRIST BRACE WITH THUMB",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "WRIST WRAP UNI",
+        "packing": "1",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "company": "V D SAFE",
+    "logo": "",
+    "items": [
+      {
+        "name": "BIPAP MASK-L (VENTED)",
+        "packing": "L",
+        "image": ""
+      },
+      {
+        "name": "BIPAP MASK-L NON VENTED",
+        "packing": "L",
+        "image": ""
+      },
+      {
+        "name": "BIPAP MASK-M",
+        "packing": "M",
+        "image": ""
+      },
+      {
+        "name": "BIPAP MASK-M (VENTED)",
+        "packing": "M",
+        "image": ""
+      },
+      {
+        "name": "COTTON 500 GM",
+        "packing": "500GM",
+        "image": ""
+      },
+      {
+        "name": "EXAM GLOVES M",
+        "packing": "20PIC",
+        "image": ""
+      },
+      {
+        "name": "GAUZ SWAB 5CM /5CM",
+        "packing": "5CM",
+        "image": ""
+      },
+      {
+        "name": "NASAL CANULA ADULT",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "T-PIC WITH TUBE",
+        "packing": "1",
+        "image": ""
+      },
+      {
+        "name": "WIPES V-D SAFE",
         "packing": "1",
         "image": ""
       }

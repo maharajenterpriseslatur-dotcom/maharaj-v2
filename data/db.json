@@ -74,7 +74,7 @@
       {
         "name": "CETAPHIL BABY BAR 75GM",
         "packing": "75GM",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CETAPHIL_BABY_BAR_75GM.png"
       },
       {
         "name": "CETAPHIL BABY GENTLE WASH SHAMPO",
@@ -84,12 +84,7 @@
       {
         "name": "CETAPHIL BABY LOTION",
         "packing": "400ML",
-        "image": ""
-      },
-      {
-        "name": "CETAPHIL BAR 75GM",
-        "packing": "75GM",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CETAPHIL_BABY_LOTION_400ML.png"
       },
       {
         "name": "CETAPHIL BRIGHT RADINCE",
@@ -109,17 +104,12 @@
       {
         "name": "CETAPHIL GENTAL SKIN CLEANSER 59ML",
         "packing": "59ML",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CETAPHIL_GENTAL_SKIN_CLEANSER_59ML.png"
       },
       {
         "name": "CETAPHIL HYDRATAING FOAM CLEANSER",
         "packing": "236ML",
-        "image": ""
-      },
-      {
-        "name": "CETAPHIL HYDRATING FOAM CLEANSER",
-        "packing": "236ML",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CETAPHIL_HYDRATAING_FOAM_CLEANSER_236ml.png"
       },
       {
         "name": "CETAPHIL MOISTURISING CREAM",
@@ -129,7 +119,7 @@
       {
         "name": "CETAPHIL MOISTURISING LOTION",
         "packing": "59ML",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/CETAPHIL_MOISTURISING_LOTION_59ML.png"
       },
       {
         "name": "CETAPHIL MOIST LOTION 100 ML",
@@ -286,7 +276,7 @@
       {
         "name": "HIM BABY WIPES 12S",
         "packing": "1 S",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_BABY_WIPES_12S.png"
       },
       {
         "name": "HIM CREAM 100ML",
@@ -296,12 +286,12 @@
       {
         "name": "HIM DIAPER RASH CREAM 20G",
         "packing": "20GM",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_DIAPER_RASH_CREAM_20G.png"
       },
       {
         "name": "HIM GHEE DIPER RASH CREM",
         "packing": "20GM",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_GHEE_DIPER_RASH_CREM_20GM.png"
       },
       {
         "name": "HIM GHEE WASH 100ML",
@@ -326,7 +316,7 @@
       {
         "name": "HIM SOFT & GENTAL WIPES",
         "packing": "72S",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/HIM_SOFT_GENTAL_WIPES_72S.png"
       },
       {
         "name": "HIMALAYA LID WIPES",
@@ -356,7 +346,7 @@
       {
         "name": "LIV-52 SYP 100ML",
         "packing": "100ML",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/LIV_52_SYP_100ML.png"
       },
       {
         "name": "PILEX TAB",
@@ -376,7 +366,7 @@
       {
         "name": "TAB LUKOL",
         "packing": "1 PCS",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/maharajenterpriseslatur-dotcom/maharaj-v2/main/images/TAB_LUKOL_1_PCS.png"
       }
     ]
   },
